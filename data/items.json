@@ -1,0 +1,265 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": 
+  [
+    {
+      "name": "Episode 1 Prince of the Netherworld",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 2 Enter Flonne",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 3 A Hint of Kindness",
+      "count": 1,      
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 4 Gift from an Angel",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 5 Etna's Secret",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 6 Laharl's Challenge",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 7 Of Being an Overlord",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 8 Reincarnation",
+      "count": 1,
+      "category": [
+        "Main Story"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Episode 9 Captain Gordon, Defender of Earth",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 10 Angels, Demons, and Humans",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 11 Hero's Will, Overlord's Way",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 12 War of the Netherworld, Part 1",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Episode 13 War of the Netherworld, Part 2",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Final Episode What Lies Beyond The Battle",
+      "count": 1,
+      "category": "Main Story",
+      "progression": true
+    },
+    {
+      "name": "Common Item World",
+      "count": 1,
+      "category": "Item World",
+      "progression": true
+    },
+    {
+      "name": "Rare Item World",
+      "count": 1,
+      "category": "Item World",
+      "progression": true
+    },
+    {
+      "name": "Legendary Item World",
+      "count": 1,
+      "category": "Item World",
+      "progression": true
+    },
+    {
+      "name": "Progressive Promotion Exam",
+      "count": 11,
+      "category": "Promotion Exam",
+      "useful": true
+    },
+    {
+      "name": "Progressive Product Rank",
+      "count": 12,
+      "category": "Product Rank",
+      "useful": true
+    },
+    {
+      "name": "Progressive Enemy Strength",
+      "count": 20,
+      "category": "Enemy Strength",
+      "useful": true
+    },{
+      "name": "Prinny Land",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Cave of Ordeal",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Human World",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Alternate Netherworld",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "The Mysterious Seal",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Eyewear Inventory",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Belt Inventory",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Shoe Inventory",
+      "count": 1,
+      "category": "Dark Assembly",
+      "useful": true
+    },
+    {
+      "name": "Fighter F",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Fighter M",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Warrior F",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Warrior M",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Mage",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Skull",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Cleric F",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Cleric M",
+      "count": 1,
+      "category": "Generic Units",
+      "useful": true
+    },
+    {
+      "name": "Fist",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    },
+    {
+      "name": "Sword",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    },
+    {
+      "name": "Spear",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    },
+    {
+      "name": "Bow",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    },
+    {
+      "name": "Gun",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    },
+    {
+      "name": "Axe",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    },
+    {
+      "name": "Staff",
+      "count": 1,
+      "category": "Weapon Unlocks",
+      "useful": true
+    }
+  ]
+}

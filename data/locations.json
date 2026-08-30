@@ -1,0 +1,396 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "1: Battle Basics 1",
+      "category": "A: Tutorial",
+      "region": "Episode 1"
+    },
+    {
+      "name": "2: Battle Basics 2",
+      "category": "A: Tutorial",
+      "region": "Episode 1"
+    },
+    {
+      "name": "3: Geo Symbols",
+      "category": "A: Tutorial",
+      "region": "Episode 1"
+    },
+    {
+      "name": "1: Magnificent Gate",
+      "category": "B: Vyer's Palace",
+      "region": "Episode 1"
+    },
+    {
+      "name": "2: Blessed Court",
+      "category": "B: Vyer's Palace",
+      "region": "Episode 1"
+    },
+    {
+      "name": "3: Corridor of Love",
+      "category": "B: Vyer's Palace",
+      "region": "Episode 1"
+    },
+    {
+      "name": "4: Hall of Caresses",
+      "category": "B: Vyer's Palace",
+      "region": "Episode 1"
+    },
+    {
+      "name": "1: Forsaken Land",
+      "category": "C: Frozen River",
+      "region": "Episode 2"
+    },
+    {
+      "name": "2: Icy Breath",
+      "category": "C: Frozen River",
+      "region": "Episode 2"
+    },
+    {
+      "name": "3: Eternal Winter",
+      "category": "C: Frozen River",
+      "region": "Episode 2"
+    },
+    {
+      "name": "4: White Death",
+      "category": "C: Frozen River",
+      "region": "Episode 2"
+    },
+    {
+      "name": "1: Gaudy Entrance",
+      "category": "D: Dinero Palace",
+      "region": "Episode 3"
+    },
+    {
+      "name": "2: Golden Entrance",
+      "category": "D: Dinero Palace",
+      "region": "Episode 3"
+    },
+    {
+      "name": "3: Flashy Passage",
+      "category": "D: Dinero Palace",
+      "region": "Episode 3"
+    },
+    {
+      "name": "4: Lavish Hall",
+      "category": "D: Dinero Palace",
+      "region": "Episode 3"
+    },
+    {
+      "name": "1: Road of Flames",
+      "category": "E: Blazing Core",
+      "region": "Episode 4"
+    },
+    {
+      "name": "2: Parched Ground",
+      "category": "E: Blazing Core",
+      "region": "Episode 4"
+    },
+    {
+      "name": "3: Blazing Field",
+      "category": "E: Blazing Core",
+      "region": "Episode 4"
+    },
+    {
+      "name": "4: Molten Labyrinth",
+      "category": "E: Blazing Core",
+      "region": "Episode 4"
+    },
+    {
+      "name": "1: Absolute Zero",
+      "category": "F: Jotunheim",
+      "region": "Episode 5"
+    },
+    {
+      "name": "2: Endless White",
+      "category": "F: Jotunheim",
+      "region": "Episode 5"
+    },
+    {
+      "name": "3: Terrible Cold",
+      "category": "F: Jotunheim",
+      "region": "Episode 5"
+    },
+    {
+      "name": "4: Ice Queen",
+      "category": "F: Jotunheim",
+      "region": "Episode 5"
+    },
+    {
+      "name": "1: Calamity Woods",
+      "category": "G: Blair Forest",
+      "region": "Episode 6"
+    },
+    {
+      "name": "2: Ritual Site",
+      "category": "G: Blair Forest",
+      "region": "Episode 6"
+    },
+    {
+      "name": "3: Witches' Den",
+      "category": "G: Blair Forest",
+      "region": "Episode 6"
+    },
+    {
+      "name": "4: Writhing Shadow",
+      "category": "G: Blair Forest",
+      "region": "Episode 6"
+    },
+    {
+      "name": "5: Nightdwellers",
+      "category": "G: Blair Forest",
+      "region": "Episode 6"
+    },
+    {
+      "name": "1: Scorching Wind",
+      "category": "H: Salamander's Breath",
+      "region": "Episode 7"
+    },
+    {
+      "name": "2: Column of Fire",
+      "category": "H: Salamander's Breath",
+      "region": "Episode 7"
+    },
+    {
+      "name": "3: Raging Earth",
+      "category": "H: Salamander's Breath",
+      "region": "Episode 7"
+    },
+    {
+      "name": "4: Crimson Plains",
+      "category": "H: Salamander's Breath",
+      "region": "Episode 7"
+    },
+    {
+      "name": "5: Ember of Dreams",
+      "category": "H: Salamander's Breath",
+      "region": "Episode 7"
+    },
+    {
+      "name": "1: Theatre of Death",
+      "category": "I: Lunar Snowfield",
+      "region": "Episode 8"
+    },
+    {
+      "name": "2: Frigid Garden",
+      "category": "I: Lunar Snowfield",
+      "region": "Episode 8"
+    },
+    {
+      "name": "3: Freezing Souls",
+      "category": "I: Lunar Snowfield",
+      "region": "Episode 8"
+    },
+    {
+      "name": "4: Under the Moon",
+      "category": "I: Lunar Snowfield",
+      "region": "Episode 8"
+    },
+    {
+      "name": "1: Valgupus IV",
+      "category": "J: Stellar Graveyard",
+      "region": "Episode 9"
+    },
+    {
+      "name": "2: Thurvean Sector",
+      "category": "J: Stellar Graveyard",
+      "region": "Episode 9"
+    },
+    {
+      "name": "3: Sphere VIII",
+      "category": "J: Stellar Graveyard",
+      "region": "Episode 9"
+    },
+    {
+      "name": "4: Cross-Point",
+      "category": "J: Stellar Graveyard",
+      "region": "Episode 9"
+    },
+    {
+      "name": "5: Primordial Soup",
+      "category": "J: Stellar Graveyard",
+      "region": "Episode 9"
+    },
+    {
+      "name": "1: Fervent Melody",
+      "category": "K: Sea of Gehenna",
+      "region": "Episode 10"
+    },
+    {
+      "name": "2: Wasteland of Woe",
+      "category": "K: Sea of Gehenna",
+      "region": "Episode 10"
+    },
+    {
+      "name": "3: River of Lava",
+      "category": "K: Sea of Gehenna",
+      "region": "Episode 10"
+    },
+    {
+      "name": "4: Searing Tyranny",
+      "category": "K: Sea of Gehenna",
+      "region": "Episode 10"
+    },
+    {
+      "name": "5: Inferno",
+      "category": "K: Sea of Gehenna",
+      "region": "Episode 10"
+    },
+    {
+      "name": "1: Ghostly Whisper",
+      "category": "L: Forest of the Dead",
+      "region": "Episode 11"
+    },
+    {
+      "name": "2: Rising Fear",
+      "category": "L: Forest of the Dead",
+      "region": "Episode 11"
+    },
+    {
+      "name": "3: Crawling Terror",
+      "category": "L: Forest of the Dead",
+      "region": "Episode 11"
+    },
+    {
+      "name": "4: Hero's Tomb",
+      "category": "L: Forest of the Dead",
+      "region": "Episode 11"
+    },
+    {
+      "name": "1: Embryon",
+      "category": "M: Stellar Graveyard II",
+      "region": "Episode 12"
+    },
+    {
+      "name": "2: Core Point No. 4",
+      "category": "M: Stellar Graveyard II",
+      "region": "Episode 12"
+    },
+    {
+      "name": "3: Star Cluster",
+      "category": "M: Stellar Graveyard II",
+      "region": "Episode 12"
+    },
+    {
+      "name": "4: Sidereal Rift",
+      "category": "M: Stellar Graveyard II",
+      "region": "Episode 12"
+    },
+    {
+      "name": "1: Point Alpha-III",
+      "category": "N: Gargantua Deck",
+      "region": "Episode 13"
+    },
+    {
+      "name": "2: Main Corridor 1",
+      "category": "N: Gargantua Deck",
+      "region": "Episode 13"
+    },
+    {
+      "name": "3: Main Corridor 2",
+      "category": "N: Gargantua Deck",
+      "region": "Episode 13"
+    },
+    {
+      "name": "4: Main Corridor 3",
+      "category": "N: Gargantua Deck",
+      "region": "Episode 13"
+    },
+    {
+      "name": "5: Bridge",
+      "category": "N: Gargantua Deck",
+      "region": "Episode 13"
+    },
+    {
+      "name": "1: Field of Virtue",
+      "category": "O: Celestia",
+      "region": "Final Episode"
+    },
+    {
+      "name": "2: Paradise",
+      "category": "O: Celestia",
+      "region": "Final Episode"
+    },
+    {
+      "name": "3: Angelic Choir",
+      "category": "O: Celestia",
+      "region": "Final Episode"
+    },
+    {
+      "name": "4: Coliseum",
+      "category": "O: Celestia",
+      "region": "Final Episode"
+    },
+    {
+      "name": "5: Divine Prison",
+      "category": "O: Celestia",
+      "region": "Final Episode"
+    },
+    {
+      "name": "1: Inner Sanctum",
+      "category": "P: Seraphic Sanctuary",
+      "region": "Final Episode"
+    },
+    {
+      "name": "2: Hall of Justice",
+      "category": "P: Seraphic Sanctuary",
+      "region": "Final Episode"
+    },
+    {
+      "name": "3: Sacred Altar",
+      "category": "P: Seraphic Sanctuary",
+      "region": "Final Episode",
+      "victory": true
+    },
+    {
+      "name": "Complete Item World Floor 10",
+      "category": "Z: Item World",
+      "region": "Common Item World"
+    },
+    {
+      "name": "Complete Item World Floor 20",
+      "category": "Z: Item World",
+      "region": "Common Item World"
+    },
+    {
+      "name": "Complete Item World Floor 30",
+      "category": "Z: Item World",
+      "region": "Common Item World"
+    },
+    {
+      "name": "Complete Item World Floor 40",
+      "category": "Z: Item World",
+      "region": "Rare Item World"
+    },
+    {
+      "name": "Complete Item World Floor 50",
+      "category": "Z: Item World",
+      "region": "Rare Item World"
+    },
+    {
+      "name": "Complete Item World Floor 60",
+      "category": "Z: Item World",
+      "region": "Rare Item World"
+    },
+    {
+      "name": "Complete Item World Floor 70",
+      "category": "Z: Item World",
+      "region": "Rare Item World"
+    },
+    {
+      "name": "Complete Item World Floor 80",
+      "category": "Z: Item World",
+      "region": "Legendary Item World"
+    },
+    {
+      "name": "Complete Item World Floor 90",
+      "category": "Z: Item World",
+      "region": "Legendary Item World"
+    },
+    {
+      "name": "Complete Item World Floor 100",
+      "category": "Z: Item World",
+      "region": "Legendary Item World"
+    }
+  ]
+}

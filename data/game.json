@@ -1,0 +1,20 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Disgaea1Complete",
+  "creator": "Rislyeu",
+  "filler_item_name": "HL",
+  "starting_items": 
+  [
+    {
+      "items": ["Episode 1 Prince of the Netherworld"]
+    },
+    {
+      "item_categories": ["Weapon Unlocks"],
+      "random": 2
+    },
+    {
+      "item_categories": ["Generic Units"],
+      "random": 1
+    }
+  ]
+}
