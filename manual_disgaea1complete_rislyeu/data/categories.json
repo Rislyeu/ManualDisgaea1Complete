@@ -1,1 +1,18 @@
-{}
+{
+    "Item World": {
+    "hidden": true,
+    "yaml_option": ["Enable_Item_World"]
+ },
+    "Charactersanity": {
+    "hidden": true,
+    "yaml_option": ["Enable_Charactersanity"]
+ },
+    "Itemsanity": {
+    "hidden": true,
+    "yaml_option": ["Enable_Charactersanity"]
+ },
+     "Monstersanity": {
+    "hidden": true,
+    "yaml_option": ["Enable_Charactersanity"]
+ }
+}

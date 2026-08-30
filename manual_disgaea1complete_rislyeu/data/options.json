@@ -26,56 +26,32 @@
             "type": "Toggle",
             "default": true
         },
-        "_Example_Toggle":{
-            "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
-            ],
+        "Enable_Item_World":{
+            "description": ["Add checks for completing every 10 levels in an item world.  You will still be required to go to Item World to unlock chapter 3 even if this is disabled.",
+            "Adds 9 checks and 2 Items"],
             "type": "Toggle",
             "default": false,
-            "group": "Example Options"
+            "group": "Item World"
         },
-        "_Example_Choice":{
-            "type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options"
-        },
-        "_Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 5,
-            "values": {"example": 2},
-            "group": "Example Options"
-        },
-
-        "_DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
+        "Enable_Charactersanity":{
+            "description": ["Adds checks for every generic character class unlock and each rank of those characters, aside from the initial 8 base generics.  Also adds items to the manual that allow you to create those characters."],
             "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": true
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "Enable_Itemsanity":{
+            "description": ["Adds checks for collecting every item in the game.  While there is no limiter to have them in your inventory, turning this on will also add items to the manual in order to use/equip each item.",
+            "Note that turning this on will enable checks for the hard to get items, such as all the rank 40 weapons."],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
+        "Enable_Monstersanity":{
+            "description": ["Adds checks for killing every type of monster, includuing every sub type in every species.  This option adds a lot of tedious checks as about 1/3 of the monsters in game can only be found at the Dark Assembly or in the Item World.",
+            "You can check your progress on the create character screen as you only can create monsters you have killed at least one of."],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
         }
     }
 

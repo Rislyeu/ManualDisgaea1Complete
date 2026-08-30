@@ -344,53 +344,413 @@
     },
     {
       "name": "Complete Item World Floor 10",
-      "category": "Z: Item World",
+      "category": ["Z: Item World"],
       "region": "Common Item World"
     },
     {
       "name": "Complete Item World Floor 20",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Common Item World"
     },
     {
       "name": "Complete Item World Floor 30",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Common Item World"
     },
     {
       "name": "Complete Item World Floor 40",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 50",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 60",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 70",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 80",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Legendary Item World"
     },
     {
       "name": "Complete Item World Floor 90",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Legendary Item World"
     },
     {
       "name": "Complete Item World Floor 100",
-      "category": "Z: Item World",
+      "category": ["Z: Item World", "Item World"],
       "region": "Legendary Item World"
+    },
+    {
+      "name": "Brawler F Unlock: Pugilist",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler F Unlock: Fighter",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler F Unlock: Black Belt",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler F Unlock: Wushu Master",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler F Unlock: Eternal Fist",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler M Unlock: Pugilist",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler M Unlock: Fighter",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler M Unlock: Black Belt",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler M Unlock: Wushu Master",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Brawler M Unlock: Eternal Fist",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior F Unlock: Battler",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior F Unlock: Centurion",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior F Unlock: Champion",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior F Unlock: Hero",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior F Unlock: Cosmic Hero",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior M Unlock: Battler",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior M Unlock: Centurion",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior M Unlock: Champion",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior M Unlock: Hero",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Warrior M Unlock: Cosmic Hero",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ninja Unlock: Ninja",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ninja Unlock: Adept Ninja",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ninja Unlock: Elite Ninja",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ninja Unlock: Shadow Ninja",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ninja Unlock: Master Ninja",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ninja Unlock: Shinobi",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ronin Unlock: Ronin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ronin Unlock: Samurai",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ronin Unlock: Bushi",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ronin Unlock: Kengo",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ronin Unlock: Blade Master",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Ronin Unlock: Shogun",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Archer Unlock: Archer",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Archer Unlock: Sniper",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Archer Unlock: Striker",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Archer Unlock: Valkyrie",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Archer Unlock: Ace Archer",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Archer Unlock: Freischutz",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Scout Unlock: Scout",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Scout Unlock: Surveyor",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Scout Unlock: Ranger",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Scout Unlock: Strider",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Scout Unlock: Geo Master",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Scout Unlock: Lord",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Rogue Unlock: Rogue",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Rogue Unlock: Thief",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Rogue Unlock: Bandit",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Rogue Unlock: Prowler",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Rogue Unlock: Raider",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Rogue Unlock: Space Pirate",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Mage Unlock: Star Mage",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Mage Unlock: Prism Mage",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Mage Unlock: Galaxy Mage",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Skull Unlock: Star Skull",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Skull Unlock: Prism Skull",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Skull Unlock: Galaxy Skull",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Knight Unlock: Knight",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Knight Unlock: Vanquisher",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Knight Unlock: Rune Knight",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Knight Unlock: Chaos Knight",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Knight Unlock: High Knight",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Knight Unlock: Space Knight",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric F Unlock: Priest",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric F Unlock: Bishop",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric F Unlock: Sage",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric F Unlock: Prophet",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric F Unlock: Savior",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric M Unlock: Priest",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric M Unlock: Bishop",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric M Unlock: Sage",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric M Unlock: Prophet",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Cleric M Unlock: Savior",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Recruit Unlock: Recruit",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Recruit Unlock: Officer",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Recruit Unlock: Cyborg",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Recruit Unlock: Psi-Soldier",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Recruit Unlock: Space Police",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Recruit Unlock: Space Marine",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Angel Unlock: Angel",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Angel Unlock: Angel Cadet",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Angel Unlock: Angel Soldier",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Angel Unlock: Crusader",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Angel Unlock: Avenger",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Angel Unlock: Paladin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Majin Unlock: Majin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Majin Unlock: Mega Majin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Majin Unlock: Giga Majin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Majin Unlock: Omega Majin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Majin Unlock: Tera Majin",
+      "category": ["X: Character Unlock", "Charactersanity"]
+    },
+    {
+      "name": "Majin Unlock: Divine Majin",
+      "category": ["X: Character Unlock", "Charactersanity"]
     }
   ]
 }

@@ -172,13 +172,13 @@
       "useful": true
     },
     {
-      "name": "Fighter F",
+      "name": "Brawler F",
       "count": 1,
       "category": "Generic Units",
       "useful": true
     },
     {
-      "name": "Fighter M",
+      "name": "Brawler M",
       "count": 1,
       "category": "Generic Units",
       "useful": true
@@ -220,46 +220,364 @@
       "useful": true
     },
     {
-      "name": "Fist",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Pugilist F",
+      "category": ["Generic Units", "Charactersanity"]
     },
     {
-      "name": "Sword",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Fighter F",
+      "category": ["Generic Units", "Charactersanity"]
     },
     {
-      "name": "Spear",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Black Belt F",
+      "category": ["Generic Units", "Charactersanity"]
     },
     {
-      "name": "Bow",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Wushu Master F",
+      "category": ["Generic Units", "Charactersanity"]
     },
     {
-      "name": "Gun",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Eternal Fist F",
+      "category": ["Generic Units", "Charactersanity"]
     },
     {
-      "name": "Axe",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Pugilist M",
+      "category": ["Generic Units", "Charactersanity"]
     },
     {
-      "name": "Staff",
-      "count": 1,
-      "category": "Weapon Unlocks",
-      "useful": true
+      "name": "Fighter M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Black Belt M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Wushu Master M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Eternal Fist M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Battler F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Centurion F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Champion F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Hero F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Cosmic Hero F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Battler M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Centurion M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Champion M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Hero M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Cosmic Hero M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Ninja",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Adept Ninja",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Elite Ninja",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Shadow Ninja",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Master Ninja",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Shinobi",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Ronin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Samurai",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Bushi",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Kengo",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Blade Master",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Shogun",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Archer",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Sniper",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Striker",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Valkyrie",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Ace Archer",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Freischutz",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Scout",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Surveyor",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Ranger",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Strider",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Geo Master",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Lord",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Rogue",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Thief",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Bandit",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Prowler",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Raider",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Space Pirate",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Star Mage",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Prism Mage",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Galaxy Mage",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Star Skull",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Prism Skull",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Galaxy Skull",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Knight",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Vanquisher",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Rune Knight",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Chaos Knight",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "High Knight",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Space Knight",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Priest F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Bishop F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Sage F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Prophet F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Savior F",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Priest M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Bishop M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Sage M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Prophet M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Savior M",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Recruit",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Officer",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Cyborg",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Psi-Soldier",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Space Police",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Space Marine",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Angel",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Angel Cadet",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Angel Soldier",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Crusader",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Avenger",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Paladin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Majin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Mega Majin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Giga Majin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Omega Majin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Tera Majin",
+      "category": ["Generic Units", "Charactersanity"]
+    },
+    {
+      "name": "Divine Majin",
+      "category": ["Generic Units", "Charactersanity"]
     }
   ]
 }
