@@ -394,131 +394,163 @@
     },
     {
       "name": "Brawler F Unlock: Pugilist",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Fighter",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Black Belt",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Wushu Master",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Eternal Fist",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler F"]
     },
     {
       "name": "Brawler M Unlock: Pugilist",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Fighter",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Black Belt",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Wushu Master",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Eternal Fist",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Brawler M"]
     },
     {
       "name": "Warrior F Unlock: Battler",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Centurion",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Champion",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Hero",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Cosmic Hero",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior F"]
     },
     {
       "name": "Warrior M Unlock: Battler",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Centurion",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Champion",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Hero",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Cosmic Hero",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Warrior M"]
     },
     {
       "name": "Ninja Unlock: Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["|Brawler M| AND |Warrior M|"]
     },
     {
       "name": "Ninja Unlock: Adept Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Elite Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Shadow Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Master Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Shinobi",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ninja"]
     },
     {
       "name": "Ronin Unlock: Ronin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["|Brawler F| AND |Warrior F|"]
     },
     {
       "name": "Ronin Unlock: Samurai",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Bushi",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Kengo",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Blade Master",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Shogun",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Ronin"]
     },
     {
       "name": "Archer Unlock: Archer",
@@ -526,231 +558,437 @@
     },
     {
       "name": "Archer Unlock: Sniper",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Archer"]
     },
     {
       "name": "Archer Unlock: Striker",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Archer"]
     },
     {
       "name": "Archer Unlock: Valkyrie",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Archer"]
     },
     {
       "name": "Archer Unlock: Ace Archer",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Archer"]
     },
     {
       "name": "Archer Unlock: Freischutz",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Archer"]
     },
     {
       "name": "Scout Unlock: Scout",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["(|Brawler M| OR |Brawler F|) AND (|Warrior M| OR |Warrior F|)"]
     },
     {
       "name": "Scout Unlock: Surveyor",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Scout"]
     },
     {
       "name": "Scout Unlock: Ranger",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Scout"]
     },
     {
       "name": "Scout Unlock: Strider",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Scout"]
     },
     {
       "name": "Scout Unlock: Geo Master",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Scout"]
     },
     {
       "name": "Scout Unlock: Lord",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Scout"]
     },
     {
       "name": "Rogue Unlock: Rogue",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["(|Brawler M| OR |Brawler F|) AND (|Warrior M| OR |Warrior F|)"]
     },
     {
       "name": "Rogue Unlock: Thief",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Bandit",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Prowler",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Raider",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Space Pirate",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Rogue"]
     },
     {
       "name": "Mage Unlock: Star Mage",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Mage"]
     },
     {
       "name": "Mage Unlock: Prism Mage",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Mage"]
     },
     {
       "name": "Mage Unlock: Galaxy Mage",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Mage"]
     },
     {
       "name": "Skull Unlock: Star Skull",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Skull"]
     },
     {
       "name": "Skull Unlock: Prism Skull",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Skull"]
     },
     {
       "name": "Skull Unlock: Galaxy Skull",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Skull"]
     },
     {
       "name": "Knight Unlock: Knight",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["|Warrior F| AND |Mage|"]
     },
     {
       "name": "Knight Unlock: Vanquisher",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Knight"]
     },
     {
       "name": "Knight Unlock: Rune Knight",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Knight"]
     },
     {
       "name": "Knight Unlock: Chaos Knight",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Knight"]
     },
     {
       "name": "Knight Unlock: High Knight",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Knight"]
     },
     {
       "name": "Knight Unlock: Space Knight",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Knight"]
     },
     {
       "name": "Cleric F Unlock: Priest",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Bishop",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Sage",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Prophet",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Savior",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric F"]
     },
     {
       "name": "Cleric M Unlock: Priest",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Bishop",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Sage",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Prophet",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Savior",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Cleric M"]
     },
     {
       "name": "Recruit Unlock: Recruit",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Scout"]
     },
     {
       "name": "Recruit Unlock: Officer",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Recruit"]
     },
     {
       "name": "Recruit Unlock: Cyborg",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Recruit"]
     },
     {
       "name": "Recruit Unlock: Psi-Soldier",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Recruit"]
     },
     {
       "name": "Recruit Unlock: Space Police",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Recruit"]
     },
     {
       "name": "Recruit Unlock: Space Marine",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Recruit"]
     },
     {
       "name": "Angel Unlock: Angel",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["|Cleric F| AND |Knight| AND |Archer|"]
     },
     {
       "name": "Angel Unlock: Angel Cadet",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Angel"]
     },
     {
       "name": "Angel Unlock: Angel Soldier",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Angel"]
     },
     {
       "name": "Angel Unlock: Crusader",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Angel"]
     },
     {
       "name": "Angel Unlock: Avenger",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Angel"]
     },
     {
       "name": "Angel Unlock: Paladin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Angel"]
     },
     {
       "name": "Majin Unlock: Majin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["|Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND |Scout|"]
     },
     {
       "name": "Majin Unlock: Mega Majin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Majin"]
     },
     {
       "name": "Majin Unlock: Giga Majin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Majin"]
     },
     {
       "name": "Majin Unlock: Omega Majin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Majin"]
     },
     {
       "name": "Majin Unlock: Tera Majin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Majin"]
     },
     {
       "name": "Majin Unlock: Divine Majin",
-      "category": ["X: Character Unlock", "Charactersanity"]
+      "category": ["X: Character Unlock", "Charactersanity"],
+      "requires": ["Majin"]
+    },
+    {
+      "name": "Boulder Crush",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Skull Splitter",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Colossal Fissure",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Violent Storm",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Graviton Bomb",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Calamity Drive",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Poison Arrow",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Dark Flash",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Delta Spirit",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Sturnhimmel",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Zielregen",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Doppelganger",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Triple Strike",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Tiger Charge",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Lion's Roar",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "King of Beasts",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Rising Dragon",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Big Bang",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Tri-Burst",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Rapidfire",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Proximal Shot",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Bullet Storm",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Totenkreuz",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Inferno",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Impaler",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Sky Lunge",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Asteroid Drop",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Avalanche",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Turbulance",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Spear Storm",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Blade Rush",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Hurricane Slash",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Wind Cutter",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Winged Slayer",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Nightsever",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Dimension Slash",
+      "category": ["W: Weapon Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Heal",
+      "category": ["S: Spell Skills", "Abilitysanity"],
+      "requires": ["|Cleric F| OR |Cleric M| OR |Angel|"]
     }
   ]
 }

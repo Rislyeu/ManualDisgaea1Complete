@@ -33,15 +33,22 @@
             "default": false,
             "group": "Item World"
         },
+        "Enable_Abilitysanity":{
+            "description": ["Adds checks for learning all the weapon ablilities.  Also adds items to the manual to enable use of these abilities."],
+            "type": "Toggle",
+            "default": false,
+            "group": "Sanity Options"
+        },
         "Enable_Charactersanity":{
-            "description": ["Adds checks for every generic character class unlock and each rank of those characters, aside from the initial 8 base generics.  Also adds items to the manual that allow you to create those characters."],
+            "description": ["Adds checks for every generic character class unlock and each rank of those characters, aside from the initial 8 base generics.  Also adds items to the manual that allow you to create those characters.",
+            "Note that some classes require quite absurd levels to unlock their final form."],
             "type": "Toggle",
             "default": false,
             "group": "Sanity Options"
         },
         "Enable_Itemsanity":{
             "description": ["Adds checks for collecting every item in the game.  While there is no limiter to have them in your inventory, turning this on will also add items to the manual in order to use/equip each item.",
-            "Note that turning this on will enable checks for the hard to get items, such as all the rank 40 weapons."],
+            "Note that turning this on will also enable checks for some hard to get items, such as all the rank 40 weapons."],
             "type": "Toggle",
             "default": false,
             "group": "Sanity Options"

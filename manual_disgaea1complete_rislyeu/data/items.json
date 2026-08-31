@@ -91,19 +91,19 @@
     {
       "name": "Common Item World",
       "count": 1,
-      "category": "Item World",
+      "category": "Item World Entry",
       "progression": true
     },
     {
       "name": "Rare Item World",
       "count": 1,
-      "category": "Item World",
+      "category": "Item World Entry, Item World",
       "progression": true
     },
     {
       "name": "Legendary Item World",
       "count": 1,
-      "category": "Item World",
+      "category": "Item World Entry, Item World",
       "progression": true
     },
     {
@@ -122,8 +122,9 @@
       "name": "Progressive Enemy Strength",
       "count": 20,
       "category": "Enemy Strength",
-      "useful": true
-    },{
+      "filler": true
+    },
+    {
       "name": "Prinny Land",
       "count": 1,
       "category": "Dark Assembly",
@@ -174,406 +175,632 @@
     {
       "name": "Brawler F",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Brawler M",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Warrior F",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Warrior M",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Mage",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Skull",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Cleric F",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
       "name": "Cleric M",
       "count": 1,
-      "category": "Generic Units",
+      "category": ["Generic Units", "Basics"],
       "useful": true
     },
     {
+      "name": "Brawler F",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Brawler M",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Warrior F",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Warrior M",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Mage",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Skull",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Cleric F",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Cleric M",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
       "name": "Pugilist F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Fighter F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Black Belt F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Wushu Master F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Eternal Fist F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Pugilist M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Fighter M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Black Belt M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Wushu Master M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Eternal Fist M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Battler F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Centurion F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Champion F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Hero F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Cosmic Hero F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Battler M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Centurion M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Champion M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Hero M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Cosmic Hero M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Ninja",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Adept Ninja",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Elite Ninja",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Shadow Ninja",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Master Ninja",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Shinobi",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Ronin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Samurai",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Bushi",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Kengo",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Blade Master",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Shogun",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Archer",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Sniper",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Striker",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Valkyrie",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Ace Archer",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Freischutz",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Scout",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Surveyor",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Ranger",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Strider",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Geo Master",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Lord",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Rogue",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Thief",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Bandit",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Prowler",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Raider",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Space Pirate",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Star Mage",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Prism Mage",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Galaxy Mage",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Star Skull",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Prism Skull",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Galaxy Skull",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Knight",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Vanquisher",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Rune Knight",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Chaos Knight",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "High Knight",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Space Knight",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Priest F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Bishop F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Sage F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Prophet F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Savior F",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Priest M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Bishop M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Sage M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Prophet M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Savior M",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Recruit",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Officer",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Cyborg",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Psi-Soldier",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Space Police",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Space Marine",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Angel",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Angel Cadet",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Angel Soldier",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Crusader",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Avenger",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Paladin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Majin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Mega Majin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Giga Majin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Omega Majin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Tera Majin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
     },
     {
       "name": "Divine Majin",

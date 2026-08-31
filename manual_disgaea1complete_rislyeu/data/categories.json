@@ -7,12 +7,20 @@
     "hidden": true,
     "yaml_option": ["Enable_Charactersanity"]
  },
+    "Basics": {
+    "hidden": true,
+    "yaml_option": ["!Enable_Charactersanity"]
+ },
     "Itemsanity": {
     "hidden": true,
-    "yaml_option": ["Enable_Charactersanity"]
+    "yaml_option": ["Enable_Itemsanity"]
  },
-     "Monstersanity": {
+    "Monstersanity": {
     "hidden": true,
-    "yaml_option": ["Enable_Charactersanity"]
- }
+    "yaml_option": ["Enable_Monstersanity"]
+ },
+    "Abilitysanity": {
+    "hidden": true,
+    "yaml_option": ["Enable_Abilitysanity"]
+    }
 }

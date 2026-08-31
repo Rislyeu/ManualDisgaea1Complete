@@ -9,10 +9,6 @@
       "items": ["Episode 1 Prince of the Netherworld"]
     },
     {
-      "item_categories": ["Weapon Unlocks"],
-      "random": 2
-    },
-    {
       "item_categories": ["Generic Units"],
       "random": 1
     }
