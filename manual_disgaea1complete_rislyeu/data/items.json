@@ -47,9 +47,7 @@
     {
       "name": "Episode 8 Reincarnation",
       "count": 1,
-      "category": [
-        "Main Story"
-      ],
+      "category": "Main Story",
       "progression": true
     },
     {
@@ -107,9 +105,9 @@
       "progression": true
     },
     {
-      "name": "Progressive Promotion Exam",
+      "name": "Progressive Demon Rank",
       "count": 11,
-      "category": "Promotion Exam",
+      "category": "Demon Rank",
       "useful": true
     },
     {
@@ -173,62 +171,68 @@
       "useful": true
     },
     {
+      "name": "Laharl",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Etna",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Flonne",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Hoggmeiser",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Maderas",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Gordon",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Jennifer",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Thursday",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
+      "name": "Kurtis",
+      "count": 1,
+      "category": ["Special Units"],
+      "useful": true
+    },
+    {
       "name": "Brawler F",
       "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
     },
     {
       "name": "Brawler M",
       "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Warrior F",
-      "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Warrior M",
-      "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Mage",
-      "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Skull",
-      "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Cleric F",
-      "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Cleric M",
-      "count": 1,
-      "category": ["Generic Units", "Basics"],
-      "useful": true
-    },
-    {
-      "name": "Brawler F",
-      "count": 1,
-      "category": ["Generic Units", "Charactersanity"],
-      "progression": true
-    },
-    {
-      "name": "Brawler M",
-      "count": 1,
       "category": ["Generic Units", "Charactersanity"],
       "progression": true
     },
@@ -245,13 +249,37 @@
       "progression": true
     },
     {
-      "name": "Mage",
+      "name": "Red Mage",
       "count": 1,
       "category": ["Generic Units", "Charactersanity"],
       "progression": true
     },
     {
-      "name": "Skull",
+      "name": "Blue Mage",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Green Mage",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Red Skull",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Blue Skull",
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "progression": true
+    },
+    {
+      "name": "Green Skull",
       "count": 1,
       "category": ["Generic Units", "Charactersanity"],
       "progression": true
@@ -578,7 +606,7 @@
       "name": "Prism Mage",
       "count": 1,
       "category": ["Generic Units", "Charactersanity"],
-      "filler": true
+      "progression": true
     },
     {
       "name": "Galaxy Mage",
@@ -596,7 +624,7 @@
       "name": "Prism Skull",
       "count": 1,
       "category": ["Generic Units", "Charactersanity"],
-      "filler": true
+      "progression": true
     },
     {
       "name": "Galaxy Skull",
@@ -804,7 +832,334 @@
     },
     {
       "name": "Divine Majin",
-      "category": ["Generic Units", "Charactersanity"]
+      "count": 1,
+      "category": ["Generic Units", "Charactersanity"],
+      "filler": true
+    },
+    {
+      "name": "1: Boulder Crush",
+      "count": 1,
+      "category": ["W: Axe Skills", "Abilitysanity"]
+    },
+    {
+      "name": "2: Skull Splitter",
+      "count": 1,
+      "category": ["W: Axe Skills", "Abilitysanity"]
+    },
+    {
+      "name": "3: Colossal Fissure",
+      "count": 1,
+      "category": ["W: Axe Skills", "Abilitysanity"]
+    },
+    {
+      "name": "4: Violent Storm",
+      "count": 1,
+      "category": ["W: Axe Skills", "Abilitysanity"]
+    },
+    {
+      "name": "5: Graviton Bomb",
+      "count": 1,
+      "category": ["W: Axe Skills", "Abilitysanity"]
+    },
+    {
+      "name": "6: Calamity Drive",
+      "count": 1,
+      "category": ["W: Axe Skills", "Abilitysanity"]
+    },
+    {
+      "name": "1: Poison Arrow",
+      "count": 1,
+      "category": ["W: Bow Skills", "Abilitysanity"]
+    },
+    {
+      "name": "2: Dark Flash",
+      "count": 1,
+      "category": ["W: Bow Skills", "Abilitysanity"]
+    },
+    {
+      "name": "3: Delta Spirit",
+      "count": 1,
+      "category": ["W: Bow Skills", "Abilitysanity"]
+    },
+    {
+      "name": "4: Sturnhimmel",
+      "count": 1,
+      "category": ["W: Bow Skills", "Abilitysanity"]
+    },
+    {
+      "name": "5: Zielregen",
+      "count": 1,
+      "category": ["W: Bow Skills", "Abilitysanity"]
+    },
+    {
+      "name": "6: Doppelganger",
+      "count": 1,
+      "category": ["W: Bow Skills", "Abilitysanity"]
+    },
+    {
+      "name": "1: Triple Strike",
+      "count": 1,
+      "category": ["W: Fist Skills", "Abilitysanity"]
+    },
+    {
+      "name": "2: Tiger Charge",
+      "count": 1,
+      "category": ["W: Fist Skills", "Abilitysanity"]
+    },
+    {
+      "name": "3: Lion's Roar",
+      "count": 1,
+      "category": ["W: Fist Skills", "Abilitysanity"]
+    },
+    {
+      "name": "4: King of Beasts",
+      "count": 1,
+      "category": ["W: Fist Skills", "Abilitysanity"]
+    },
+    {
+      "name": "5: Rising Dragon",
+      "count": 1,
+      "category": ["W: Fist Skills", "Abilitysanity"]
+    },
+    {
+      "name": "6: Big Bang",
+      "count": 1,
+      "category": ["W: Fist Skills", "Abilitysanity"]
+    },
+    {
+      "name": "1: Tri-Burst",
+      "count": 1,
+      "category": ["W: Gun Skills", "Abilitysanity"]
+    },
+    {
+      "name": "2: Rapidfire",
+      "count": 1,
+      "category": ["W: Gun Skills", "Abilitysanity"]
+    },
+    {
+      "name": "3: Proximal Shot",
+      "count": 1,
+      "category": ["W: Gun Skills", "Abilitysanity"]
+    },
+    {
+      "name": "4: Bullet Storm",
+      "count": 1,
+      "category": ["W: Gun Skills", "Abilitysanity"]
+    },
+    {
+      "name": "5: Totenkreuz",
+      "count": 1,
+      "category": ["W: Gun Skills", "Abilitysanity"]
+    },
+    {
+      "name": "6: Inferno",
+      "count": 1,
+      "category": ["W: Gun Skills", "Abilitysanity"]
+    },
+    {
+      "name": "1: Impaler",
+      "count": 1,
+      "category": ["W: Spear Skills", "Abilitysanity"]
+    },
+    {
+      "name": "2: Sky Lunge",
+      "count": 1,
+      "category": ["W: Spear Skills", "Abilitysanity"]
+    },
+    {
+      "name": "3: Asteroid Drop",
+      "count": 1,
+      "category": ["W: Spear Skills", "Abilitysanity"]
+    },
+    {
+      "name": "4: Avalanche",
+      "count": 1,
+      "category": ["W: Spear Skills", "Abilitysanity"]
+    },
+    {
+      "name": "5: Turbulance",
+      "count": 1,
+      "category": ["W: Spear Skills", "Abilitysanity"]
+    },
+    {
+      "name": "6: Spear Storm",
+      "count": 1,
+      "category": ["W: Spear Skills", "Abilitysanity"]
+    },
+    {
+      "name": "1: Blade Rush",
+      "count": 1,
+      "category": ["W: Sword Skills", "Abilitysanity"]
+    },
+    {
+      "name": "2: Hurricane Slash",
+      "count": 1,
+      "category": ["W: Sword Skills", "Abilitysanity"]
+    },
+    {
+      "name": "3: Wind Cutter",
+      "count": 1,
+      "category": ["W: Sword Skills", "Abilitysanity"]
+    },
+    {
+      "name": "4: Winged Slayer",
+      "count": 1,
+      "category": ["W: Sword Skills", "Abilitysanity"]
+    },
+    {
+      "name": "5: Nightsever",
+      "count": 1,
+      "category": ["W: Sword Skills", "Abilitysanity"]
+    },
+    {
+      "name": "6: Dimension Slash",
+      "count": 1,
+      "category": ["W: Sword Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Heal",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Espoir",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Shield",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Mega Heal",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Magic Wall",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Giga Heal",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Omega Heal",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Fire",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Mega Fire",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Giga Fire",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Omega Fire",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Tera Fire",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Ice",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Mega Ice",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Giga Ice",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Omega Ice",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Tera Ice",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Wind",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Mega Wind",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Giga Wind",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Omega Wind",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Tera Wind",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Magic Boost",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Braveheart",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Star",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Mega Star",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Giga Star",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Omega Star",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
+    },
+    {
+      "name": "Tera Star",
+      "count": 1,
+      "category": ["S: Spell Skills", "Abilitysanity"]
     }
   ]
 }

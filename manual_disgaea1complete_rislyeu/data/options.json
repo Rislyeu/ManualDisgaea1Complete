@@ -34,27 +34,27 @@
             "group": "Item World"
         },
         "Enable_Abilitysanity":{
-            "description": ["Adds checks for learning all the weapon ablilities.  Also adds items to the manual to enable use of these abilities."],
+            "description": ["Adds checks for learning all weapon ablilities and spells.  Also adds items to the manual to enable use of these abilities."],
             "type": "Toggle",
             "default": false,
             "group": "Sanity Options"
         },
         "Enable_Charactersanity":{
             "description": ["Adds checks for every generic character class unlock and each rank of those characters, aside from the initial 8 base generics.  Also adds items to the manual that allow you to create those characters.",
-            "Note that some classes require quite absurd levels to unlock their final form."],
+            "Note that some classes require high levels to unlock their final form."],
             "type": "Toggle",
             "default": false,
             "group": "Sanity Options"
         },
         "Enable_Itemsanity":{
             "description": ["Adds checks for collecting every item in the game.  While there is no limiter to have them in your inventory, turning this on will also add items to the manual in order to use/equip each item.",
-            "Note that turning this on will also enable checks for some hard to get items, such as all the rank 40 weapons."],
+            "Note that turning this on will NOT enable checks for hard to get items, such as all the rank 39 and 40 weapons."],
             "type": "Toggle",
             "default": false,
             "group": "Sanity Options"
         },
         "Enable_Monstersanity":{
-            "description": ["Adds checks for killing every type of monster, includuing every sub type in every species.  This option adds a lot of tedious checks as about 1/3 of the monsters in game can only be found at the Dark Assembly or in the Item World.",
+            "description": ["Adds checks for killing every type of monster, including every sub type in every species.  This option adds a lot of tedious checks as about 1/3 of the monsters in game can only be found at the Dark Assembly or in the Item World.",
             "You can check your progress on the create character screen as you only can create monsters you have killed at least one of."],
             "type": "Toggle",
             "default": false,

@@ -2,15 +2,11 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "Disgaea1Complete",
   "creator": "Rislyeu",
-  "filler_item_name": "HL",
+  "filler_item_name": "Dood!",
   "starting_items": 
   [
     {
-      "items": ["Episode 1 Prince of the Netherworld"]
-    },
-    {
-      "item_categories": ["Generic Units"],
-      "random": 1
-    }
+      "items": ["Episode 1 Prince of the Netherworld", "Laharl"]
+    } 
   ]
 }

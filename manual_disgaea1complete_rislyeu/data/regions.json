@@ -1,70 +1,121 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-  "Episode 1": {
-    "connects_to": ["Episode 2"],
-    "starting": true,
-    "requires": ["Episode 1 Prince of the Netherworld"]
-  },
-  "Episode 2": {
-    "connects_to": ["Common Item World"],
-    "requires": ["Episode 2 Enter Flonne"]
-  },
-  "Common Item World": {
-    "connects_to": ["Episode 3", "Rare Item World"],
-    "requires": ["Common Item World"]
-  },
-  "Episode 3": {
-    "connects_to": ["Episode 4"],
-    "requires": ["Episode 3 A Hint of Kindness"]
-  },
-  "Episode 4": {
-    "connects_to": ["Episode 5"],
-    "requires": ["Episode 4 Gift from an Angel"]
-  },
-  "Episode 5": {
-    "connects_to": ["Episode 6"],
-    "requires": ["Episode 5 Etna's Secret"]
+    "Episode 1": {
+      "connects_to": ["Episode 2"],
+      "starting": true,
+      "requires": ["Episode 1 Prince of the Netherworld"]
     },
-  "Episode 6": {
-    "connects_to": ["Episode 7"],
-    "requires": ["Episode 6 Laharl's Challenge"]
-  },
-  "Episode 7": {
-    "connects_to": ["Episode 8"],
-    "requires": ["Episode 7 Of Being an Overlord"]
-  },
-  "Episode 8": {
-    "connects_to": ["Episode 9"],
-    "requires": ["Episode 8 Reincarnation"]
-  },
-  "Episode 9": {
-    "connects_to": ["Episode 10"],
-    "requires": ["Episode 9 Captain Gordon, Defender of Earth"]
-  },
-  "Episode 10": {
-    "connects_to": ["Episode 11"],
-    "requires": ["Episode 10 Angels, Demons, and Humans"]
-  },
-  "Episode 11": {
-    "connects_to": ["Episode 12"],
-    "requires": ["Episode 11 Hero's Will, Overlord's Way"]
-  },
-  "Episode 12": {
-    "connects_to": ["Episode 13"],
-    "requires": ["Episode 12 War of the Netherworld, Part 1"]
-  },
-  "Episode 13": {
-    "connects_to": ["Final Episode"],
-    "requires": ["Episode 13 War of the Netherworld, Part 2"]
-  },
-  "Final Episode": {
-    "requires": ["Final Episode What Lies Beyond The Battle"]
-  },
-  "Rare Item World": {
-    "connects_to": ["Legendary Item World"],
-    "requires": ["Rare Item World", "Episode 9 Captain Gordon, Defender of Earth"]
-  },
-  "Legendary Item World": {
-    "requires": ["Legendary Item World", "Episode 12 War of the Netherworld, Part 1"]
-  }
+    "Episode 2": {
+      "connects_to": ["Common Item World"],
+      "requires": ["Episode 2 Enter Flonne"]
+    },
+    "Common Item World": {
+      "connects_to": ["Episode 3", "Rare Item World"],
+      "requires": ["Common Item World"]
+    },
+    "Episode 3": {
+      "connects_to": ["Episode 4"],
+      "requires": ["Episode 3 A Hint of Kindness"]
+    },
+    "Episode 4": {
+      "connects_to": ["Episode 5"],
+      "requires": ["Episode 4 Gift from an Angel"]
+    },
+    "Episode 5": {
+      "connects_to": ["Episode 6"],
+      "requires": ["Episode 5 Etna's Secret"]
+    },
+    "Episode 6": {
+      "connects_to": ["Episode 7"],
+      "requires": ["Episode 6 Laharl's Challenge"]
+    },
+    "Episode 7": {
+      "connects_to": ["Episode 8"],
+      "requires": ["Episode 7 Of Being an Overlord"]
+    },
+    "Episode 8": {
+      "connects_to": ["Episode 9"],
+      "requires": ["Episode 8 Reincarnation"]
+    },
+    "Episode 9": {
+      "connects_to": ["Episode 10"],
+      "requires": ["Episode 9 Captain Gordon, Defender of Earth"]
+    },
+    "Episode 10": {
+      "connects_to": ["Episode 11"],
+      "requires": ["Episode 10 Angels, Demons, and Humans"]
+    },
+    "Episode 11": {
+      "connects_to": ["Episode 12"],
+      "requires": ["Episode 11 Hero's Will, Overlord's Way"]
+    },
+    "Episode 12": {
+      "connects_to": ["Episode 13"],
+      "requires": ["Episode 12 War of the Netherworld, Part 1"]
+    },
+    "Episode 13": {
+      "connects_to": ["Final Episode"],
+      "requires": ["Episode 13 War of the Netherworld, Part 2"]
+    },
+    "Final Episode": {
+      "requires": ["Final Episode What Lies Beyond The Battle"]
+    },
+    "Rare Item World": {
+      "connects_to": ["Legendary Item World"],
+      "requires": ["Rare Item World", "Episode 9 Captain Gordon, Defender of Earth"]
+    },
+    "Legendary Item World": {
+      "requires": ["Legendary Item World", "Episode 12 War of the Netherworld, Part 1"]
+    },
+    "Brawler F": {
+      "requires": ["Brawler F"]
+    },
+    "Brawler M": {
+      "requires": ["Brawler M"]
+    },
+    "Warrior F": {
+      "requires": ["Warrior F"]
+    },
+    "Warrior M": {
+      "requires": ["Warrior M"]
+    },
+    "Ninja": {
+      "requires": ["|Ninja| AND |Brawler M| AND |Warrior M|"]
+    },
+    "Ronin": {
+      "requires": ["|Ronin| AND |Brawler F| AND |Warrior F|"]
+    },
+    "Archer": {
+      "requires": ["|Archer| AND |Episode 3 A Hint of Kindness|"]
+    },
+    "Scout": {
+      "requires": ["|Scout| AND (|Brawler M| OR |Brawler F|) AND (|Warrior M| OR |Warrior F|)"]
+    },
+    "Rogue": {
+      "requires": ["|Rogue| AND (|Brawler F| OR |Brawler M|) AND (|Warrior F| OR |Warrior M|)"]
+    },
+    "Mage": {
+      "requires": ["|Red Mage| OR |Blue Mage| OR |Green Mage|"]
+    },
+    "Skull": {
+      "requires": ["|Red Skull| OR |Blue Skull| OR |Green Skull|"]
+    },
+    "Knight": {
+      "requires": ["|Knight| AND |Warrior F| AND |Mage|"]
+    },
+    "Cleric F": {
+      "requires": ["Cleric F"]
+    },
+    "Cleric M": {
+      "requires": ["Cleric M"]
+    },
+    "Recruit": {
+      "requires": ["|Recruit| AND |Episode 10 Angels, Demons, and Humans|"]
+    },
+    "Angel": {
+      "requires": ["|Angel| AND |Cleric F| AND |Knight| AND |Archer| AND |Cave of Ordeals| AND |Progressive Demon Rank:6|"]
+    },
+    "Majin": {
+      "requires": ["|Majin| AND |Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND |Cave of Ordeals| AND |Progressive Demon Rank:6|"]
+    }
 }
