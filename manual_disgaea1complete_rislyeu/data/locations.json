@@ -1191,17 +1191,17 @@
     {
       "name": "Common Axe: Rank 1",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Villager's Axe: Rank 2",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Battle Axe: Rank 3",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Bronze Axe: Rank 4",
@@ -1221,178 +1221,178 @@
     {
       "name": "Warrior's Axe: Rank 7",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Mighty Axe: Rank 8",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Steel Axe: Rank 9",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Stamina Axe: Rank 10",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Axe of Sorcery: Rank 11",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Pixie Axe: Rank 12",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Falcon Axe: Rank 13",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Enchanted Axe: Rank 14",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Silver Axe: Rank 15",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Dwarven Axe: Rank 16",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Bloody Axe: Rank 17",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Adamant Axe: Rank 18",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Demon's Axe: Rank 19",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Dream Axe: Rank 20",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Headhunter: Rank 21",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Hero's Axe: Rank 22",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Mistral Axe: Rank 23",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Jupiter's Axe: Rank 24",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Golden Axe: Rank 25",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Vigaro's Axe: Rank 26",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Axe of Death: Rank 27",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Rune Axe: Rank 28",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Terra Firma: Rank 29",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Hellish Axe: Rank 30",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Bahamut's Talon: Rank 31",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Platinum Axe: Rank 32",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Axe of Slaughter: Rank 33",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Mercurius: Rank 34",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Diabolic Axe: Rank 35",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Empyrean Axe: Rank 36",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Balmung: Rank 37",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Infernal Axe: Rank 38",
       "category": ["Y Axe Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Common Sword: Rank 1",
       "category": ["Y Starting Items", "Itemsanity"],
-      "region": ["Product Rank 1"],
+      "region": ["Product Rank 0"],
       "prehint": true
     },
     {
       "name": "Shortsword: Rank 2",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Swordbreaker: Rank 3",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Bronze Sword: Rank 4",
@@ -1412,177 +1412,177 @@
     {
       "name": "Sharp Edge: Rank 7",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Bastard Sword: Rank 8",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Broad Sword: Rank 9",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Magic Sword: Rank 10",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "2-Pronged Blade: Rank 11",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Great Sword: Rank 12",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Taser Sword: Rank 13",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Mortuus Blade: Rank 14",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Psychic Sword: Rank 15",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Stabbing Knife: Rank 16",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Evil Thwarter: Rank 17",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Hibernal Sword: Rank 18",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Muramasa: Rank 19",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Light Sabre: Rank 20",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Vajra: Rank 21",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Mistral Sword: Rank 22",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Jupiter's Sword: Rank 23",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Bloodlust: Rank 24",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Masamune: Rank 25",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Bahamut's Fang: Rank 26",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Adamant Sword: Rank 27",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Demon Killer: Rank 28",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Wyrmslayer: Rank 29",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Laevateinn: Rank 30",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Diabolic Sword: Rank 31",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Crusade: Rank 32",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Kusanagi: Rank 33",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Excalibur: Rank 34",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Shichishi-Tou: Rank 35",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Infernal Sword: Rank 36",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Arondight: Rank 37",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Amano-Hahakiri: Rank 38",
       "category": ["Y Sword Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Wristband: Rank 1",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Rock Fist: Rank 2",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Double Slap: Rank 3",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Leather Glove: Rank 4",
@@ -1602,142 +1602,142 @@
     {
       "name": "Hyper Knuckle: Rank 7",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Lethal Knuckle: Rank 8",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Fake Fist: Rank 9",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Cross Counter: Rank 10",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Swift Knuckle: Rank 11",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Magic Cuff: Rank 12",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Poison Knuckle: Rank 13",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Megaton Punch: Rank 14",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Fist of Fury: Rank 15",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Mach Punch: Rank 16",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Spiked Glove: Rank 17",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Bagh Nakh: Rank 18",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Mystic Hand: Rank 19",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Metal Fist: Rank 20",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Silver Arm: Rank 21",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Demonic Fist: Rank 22",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Karate Chop: Rank 23",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Mistral Fist: Rank 24",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Jupiter's Fist: Rank 25",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Straight Punch: Rank 26",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Mirage: Rank 27",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Kwanca: Rank 28",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Bahamut's Fist: Rank 29",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Golden Arm: Rank 30",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Crisis: Rank 31",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Diabolic Fist: Rank 32",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Platinum Arm: Rank 33",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Galactica: Rank 34",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Terra Smasher: Rank 35",
@@ -1747,33 +1747,33 @@
     {
       "name": "Punisher: Rank 36",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Zodiac: Rank 37",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Infernal Fist: Rank 38",
       "category": ["Y Fist Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Common Spear: Rank 1",
       "category": ["Y Starting Items", "Itemsanity"],
-      "region": ["Product Rank 1"],
+      "region": ["Product Rank 0"],
       "prehint": true
     },
     {
       "name": "Iron Lance: Rank 2",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Knight's Lance: Rank 3",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Bogus Spear: Rank 4",
@@ -1793,182 +1793,182 @@
     {
       "name": "Bushido Lance: Rank 7",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Trident: Rank 8",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Paralyzing Spear: Rank 9",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Falcon Lance: Rank 10",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Forgetful Spear: Rank 11",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Black Spear: Rank 12",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Silver Lance: Rank 13",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Kung Fu Spear: Rank 14",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Venomous Spear: Rank 15",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Moonlight: Rank 16",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Skewer: Rank 17",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Mistral Spear: Rank 18",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Jupiter's Spear: Rank 19",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Special Lance: Rank 20",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Vile Brilliance: Rank 21",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Golden Lance: Rank 22",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Bone Lance: Rank 23",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Zephyr: Rank 24",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Bahamut's Horn: Rank 25",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Benkai: Rank 26",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Demonic Spear: Rank 27",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Pallas Athene: Rank 28",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Kiyomasa: Rank 29",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Hero's Spear: Rank 30",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Platinum Lance: Rank 31",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Lu Shuwen: Rank 32",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Diabolic Spear: Rank 33",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Walkeure: Rank 34",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Gungnir: Rank 35",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Gae Bolga: Rank 36",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Chaladholg: Rank 37",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Infernal Spear: Rank 38",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Longinus: Rank 39",
       "category": ["Y Spear Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Common Bow: Rank 1",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Hunter's Bow: Rank 2",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Longbow: Rank 3",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Big Arrow: Rank 4",
@@ -1988,177 +1988,177 @@
     {
       "name": "Enchanted Arrow: Rank 7",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Warrior's Bow: Rank 8",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Sprite Bow: Rank 9",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Venomous Bow: Rank 10",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Elven Bow: Rank 11",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Spirit Bow: Rank 12",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Master Bow: Rank 13",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Bow of Havoc: Rank 14",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Bow of Justice: Rank 15",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Silver Bow: Rank 16",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Flex Bow: Rank 17",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Plasma Arrow: Rank 18",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Hero's Bow: Rank 19",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Shining Arrow: Rank 20",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Mistral Bow: Rank 21",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Jupiter's Bow: Rank 22",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Golden Bow: Rank 23",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Judgement Arrow: Rank 24",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Remote Bow: Rank 25",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Platinum Bow: Rank 26",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Kuki: Rank 27",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Bow of Virtue: Rank 28",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Arcane Bow: Rank 29",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Yoichi's Bow: Rank 30",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Bahamut's Aim: Rank 31",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Percival: Rank 32",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Prometheus: Rank 33",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Starchaser: Rank 34",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Diabolic Bow: Rank 35",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Ull's Bow: Rank 36",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Fleche Enflamee: Rank 37",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Infernal Bow: Rank 38",
       "category": ["Y Bow Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "RQ22 Common: Rank 1",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Model 24: Rank 2",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "RQ38 Custom: Rank 3",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Dolphin EX: Rank 4",
@@ -2178,177 +2178,177 @@
     {
       "name": "KLZ900: Rank 7",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "RQ44 Magnum: Rank 8",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Model 48: Rank 9",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Dune Eagle: Rank 10",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Nether 58: Rank 11",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "ZK Auto 13: Rank 12",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Ion 8k Ninja: Rank 13",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Model 56: Rank 14",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "RQ57 Dragon: Rank 15",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "LDT52-R: Rank 16",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Nether 72: Rank 17",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "P50-XX: Rank 18",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Ion 9k Samurai: Rank 19",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "RQ66 Saint: Rank 20",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "GH401WZ: Rank 21",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "H30k: Rank 22",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "PS-714: Rank 23",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "RQ77 Godslayer: Rank 24",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Nether 108: Rank 25",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "T-199X: Rank 26",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Karlten: Rank 27",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "RQ99 Omega: Rank 28",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Gilgamesh: Rank 29",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Olympus: Rank 30",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Odyssey: Rank 31",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Phillipan: Rank 32",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Fujiyama: Rank 33",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Beowulf: Rank 34",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Tiamat: Rank 35",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Brunhild: Rank 36",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Siegfried: Rank 37",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Fenrir: Rank 38",
       "category": ["Y Gun Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Wooden Staff: Rank 1",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Light Staff: Rank 2",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Witch's Staff: Rank 3",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Mage's Staff: Rank 4",
@@ -2368,178 +2368,178 @@
     {
       "name": "Hibernal Staff: Rank 7",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Stamina Staff: Rank 8",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Swordstaff: Rank 9",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Pixie Staff: Rank 10",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Forgetful Staff: Rank 11",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Mortuus Staff: Rank 12",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Staff of Sorcery: Rank 13",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Silver Staff: Rank 14",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Elven Staff: Rank 15",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Blessed Staff: Rank 16",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Sage's Staff: Rank 17",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Staff of Hope: Rank 18",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Enchanted Staff: Rank 19",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Mistral Staff: Rank 20",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Jupiter's Staff: Rank 21",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Staff of Virtue: Rank 22",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Golden Staff: Rank 23",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Prophet's Staff: Rank 24",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Rune Staff: Rank 25",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Rainbow Rod: Rank 26",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Bahamut's Wit: Rank 27",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Holy Staff: Rank 28",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Saint's Staff: Rank 29",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Gambantein: Rank 30",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Diabolic Staff: Rank 31",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Tainted Staff: Rank 32",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Polansky's Staff: Rank 33",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Yggdragsil: Rank 34",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Mjollnir: Rank 35",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Dark Matter: Rank 36",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Kerykeion: Rank 37",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Infernal Staff: Rank 38",
       "category": ["Y Staff Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Paw Glove: Rank 1",
       "category": ["Y Starting Items", "Itemsanity"],
-      "region": ["Product Rank 1"],
+      "region": ["Product Rank 0"],
       "prehint": true
     },
     {
       "name": "Scratch Glove: Rank 2",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Crab Pincer: Rank 3",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Shocking Grasp: Rank 4",
@@ -2559,178 +2559,178 @@
     {
       "name": "Cat's Claw: Rank 7",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Lizard Tail: Rank 8",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Porcu-Spine: Rank 9",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Electric Eel: Rank 10",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Cobra Fang: Rank 11",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Spiked Shell: Rank 12",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Wolf Fang: Rank 13",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Tentacles: Rank 14",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Vampire Fang: Rank 15",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Gorilla Foot: Rank 16",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Lionheart: Rank 17",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Bear Claw: Rank 18",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Tiger Fang: Rank 19",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Panda Claw: Rank 20",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Nessie Attack: Rank 21",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Medusa Eye: Rank 22",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Brocken: Rank 23",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Demon's Hand: Rank 24",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Fiendish Claw: Rank 25",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Primal Force: Rank 26",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Goblin's Fury: Rank 27",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Mystic Eye: Rank 28",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Geo Saber: Rank 29",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Destroy: Rank 30",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Lightning Fang: Rank 31",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Dragon Tooth: Rank 32",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Enigma: Rank 33",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Orichalch Claw: Rank 34",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "El Dorado: Rank 35",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Dragon Heart: Rank 36",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Belial Force: Rank 37",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Amon Force: Rank 38",
       "category": ["Y Monster Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Amulet: Rank 1",
       "category": ["Y Starting Items", "Itemsanity"],
-      "region": ["Product Rank 1"],
+      "region": ["Product Rank 0"],
       "prehint": true
     },
     {
       "name": "Protector: Rank 2",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Bulletproof Vest: Rank 3",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Fancy Lid: Rank 4",
@@ -2745,177 +2745,177 @@
     {
       "name": "Chain Mail: Rank 6",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Dimensional Cape: Rank 7",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Power Jacket: Rank 8",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Bushido Armor: Rank 9",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Magic Vest: Rank 10",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Muscle Armor: Rank 11",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Steel Armor: Rank 12",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Fur Coat: Rank 13",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Dandy Gown: Rank 14",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Stealth Cape: Rank 15",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Stinky Jacket: Rank 16",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Ghost Cape: Rank 17",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Prophet's Robe: Rank 18",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Silver Tux: Rank 19",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Gritty Vest: Rank 20",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Mistral Armor: Rank 21",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Jupiter's Armor: Rank 22",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Cactus Armor: Rank 23",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Hero Cape: Rank 24",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Gold Tux: Rank 25",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Reaper's Cloak: Rank 26",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Black Armor: Rank 27",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Nine Tail Fur: Rank 28",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Platinum Tux: Rank 29",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Dragon Jacket: Rank 30",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     },
     {
       "name": "Orichalch Shield: Rank 31",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Bahamut's Scale: Rank 32",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Evil Armor: Rank 33",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 10"]
     },
     {
       "name": "Shield of Aegis: Rank 34",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Celestial Armor: Rank 35",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Infernal Cape: Rank 36",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 11"]
     },
     {
       "name": "Infernal Shield: Rank 37",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Infernal Armor: Rank 38",
       "category": ["Y Armor Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 12"]
     },
     {
       "name": "Quasi-Power Belt: Rank 1",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Power Belt: Rank 3",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 0"]
     },
     {
       "name": "Endeavor Belt: Rank 5",
@@ -2925,62 +2925,62 @@
     {
       "name": "Belt of Will: Rank 7",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Mega-Power Belt: Rank 9",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 2"]
     },
     {
       "name": "Monster Belt: Rank 11",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 3"]
     },
     {
       "name": "Super Belt: Rank 13",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Steel Belt: Rank 15",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 4"]
     },
     {
       "name": "Aura Belt: Rank 17",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 5"]
     },
     {
       "name": "Love Belt: Rank 19",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Spirit Belt: Rank 21",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 6"]
     },
     {
       "name": "Hero Belt: Rank 23",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 7"]
     },
     {
       "name": "Soul Belt: Rank 25",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Training Belt: Rank 27",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 8"]
     },
     {
       "name": "Bravery Belt: Rank 29",
       "category": ["Y Belt Items", "Itemsanity"],
-      "region": ["Product Rank 1"]
+      "region": ["Product Rank 9"]
     }
   ]
 }
