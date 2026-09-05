@@ -62,10 +62,10 @@
     },
     "Rare Item World": {
       "connects_to": ["Legendary Item World"],
-      "requires": ["Rare Item World", "Episode 9 Captain Gordon, Defender of Earth"]
+      "requires": ["|Rare Item World| AND |Episode 9 Captain Gordon, Defender of Earth|"]
     },
     "Legendary Item World": {
-      "requires": ["Legendary Item World", "Episode 12 War of the Netherworld, Part 1"]
+      "requires": ["|Legendary Item World| AND |Episode 12 War of the Netherworld, Part 1|"]
     },
     "Brawler F": {
       "requires": ["Brawler F"]
@@ -113,9 +113,60 @@
       "requires": ["|Recruit| AND |Episode 10 Angels, Demons, and Humans|"]
     },
     "Angel": {
-      "requires": ["|Angel| AND |Cleric F| AND |Knight| AND |Archer| AND |Cave of Ordeals| AND |Progressive Demon Rank:6|"]
+      "requires": ["|Angel| AND |Cleric F| AND |Knight| AND |Archer| AND Optall(|Cave of Ordeals| AND |Progressive Demon Rank:6|)"]
     },
     "Majin": {
-      "requires": ["|Majin| AND |Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND |Cave of Ordeals| AND |Progressive Demon Rank:6|"]
+      "requires": ["|Majin| AND |Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND Optall(|Cave of Ordeals| AND |Progressive Demon Rank:6|)"]
+    },
+    "Product Rank 0": {
+      "connects_to": ["Product Rank 1"],
+      "starting": true
+    },
+    "Product Rank 1": {
+      "connects_to": ["Product Rank 2"],
+      "requires": ["{OptOne(|Progressive Product Rank:1|) AND |Episode 2 Enter Flonne|"]
+    },
+    "Product Rank 2": {
+      "connects_to": ["Product Rank 3"],
+      "requires": ["{OptOne(|Progressive Product Rank:2|) AND |Episode 3 A Hint of Kindness|"]
+    },
+    "Product Rank 3": {
+      "connects_to": ["Product Rank 4"],
+      "requires": ["{OptOne(|Progressive Product Rank:3|) AND |Episode 4 Gift from an Angel|"]
+    },
+    "Product Rank 4": {
+      "connects_to": ["Product Rank 5"],
+      "requires": ["{OptOne(|Progressive Product Rank:4|) AND |Episode 5 Etna's Secret|"]
+    },
+    "Product Rank 5": {
+      "connects_to": ["Product Rank 6"],
+      "requires": ["{OptOne(|Progressive Product Rank:5|) AND |Episode 6 Laharl's Challenge|"]
+    },
+    "Product Rank 6": {
+      "connects_to": ["Product Rank 7"],
+      "requires": ["{OptOne(|Progressive Product Rank:6|) AND |Episode 7 Of Being an Overlord|"]
+    },
+    "Product Rank 7": {
+      "connects_to": ["Product Rank 8"],
+      "requires": ["{OptOne(|Progressive Product Rank:7|) AND |Episode 8 Reincarnation|"]
+    },
+    "Product Rank 8": {
+      "connects_to": ["Product Rank 9"],
+      "requires": ["{OptOne(|Progressive Product Rank:8|) AND |Episode 9 Captain Gordon, Defender of Earth|"]
+    },
+    "Product Rank 9": {
+      "connects_to": ["Product Rank 10"],
+      "requires": ["{OptOne(|Progressive Product Rank:9|) AND |Episode 10 Angels, Demons, and Humans|"]
+    },
+    "Product Rank 10": {
+      "connects_to": ["Product Rank 11"],
+      "requires": ["{OptOne(|Progressive Product Rank:10|) AND |Episode 11 Hero's Will, Overlord's Way|"]
+    },
+    "Product Rank 11": {
+      "connects_to": ["Product Rank 12"],
+      "requires": ["{OptOne(|Progressive Product Rank:11|) AND |Episode 12 War of the Netherworld, Part 1|"]
+    },
+    "Product Rank 12": {
+      "requires": ["{OptOne(|Progressive Product Rank:12|) AND |Episode 13 War of the Netherworld, Part 2|"]
     }
 }

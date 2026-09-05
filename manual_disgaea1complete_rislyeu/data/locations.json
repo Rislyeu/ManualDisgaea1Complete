@@ -3,1802 +3,2984 @@
   "data": [
     {
       "name": "1: Battle Basics 1",
-      "category": "A: Tutorial",
+      "category": "A Tutorial",
       "region": "Episode 1"
     },
     {
       "name": "2: Battle Basics 2",
-      "category": "A: Tutorial",
+      "category": "A Tutorial",
       "region": "Episode 1"
     },
     {
       "name": "3: Geo Symbols",
-      "category": "A: Tutorial",
+      "category": "A Tutorial",
       "region": "Episode 1"
     },
     {
       "name": "1: Magnificent Gate",
-      "category": "B: Vyer's Palace",
+      "category": "B Vyer's Palace",
       "region": "Episode 1"
     },
     {
       "name": "2: Blessed Court",
-      "category": "B: Vyer's Palace",
+      "category": "B Vyer's Palace",
       "region": "Episode 1"
     },
     {
       "name": "3: Corridor of Love",
-      "category": "B: Vyer's Palace",
+      "category": "B Vyer's Palace",
       "region": "Episode 1"
     },
     {
       "name": "4: Hall of Caresses",
-      "category": "B: Vyer's Palace",
+      "category": "B Vyer's Palace",
       "region": "Episode 1"
     },
     {
       "name": "1: Forsaken Land",
-      "category": "C: Frozen River",
+      "category": "C Frozen River",
       "region": "Episode 2"
     },
     {
       "name": "2: Icy Breath",
-      "category": "C: Frozen River",
+      "category": "C Frozen River",
       "region": "Episode 2"
     },
     {
       "name": "3: Eternal Winter",
-      "category": "C: Frozen River",
+      "category": "C Frozen River",
       "region": "Episode 2"
     },
     {
       "name": "4: White Death",
-      "category": "C: Frozen River",
+      "category": "C Frozen River",
       "region": "Episode 2"
     },
     {
       "name": "1: Gaudy Entrance",
-      "category": "D: Dinero Palace",
+      "category": "D Dinero Palace",
       "region": "Episode 3"
     },
     {
       "name": "2: Golden Entrance",
-      "category": "D: Dinero Palace",
+      "category": "D Dinero Palace",
       "region": "Episode 3"
     },
     {
       "name": "3: Flashy Passage",
-      "category": "D: Dinero Palace",
+      "category": "D Dinero Palace",
       "region": "Episode 3"
     },
     {
       "name": "4: Lavish Hall",
-      "category": "D: Dinero Palace",
+      "category": "D Dinero Palace",
       "region": "Episode 3"
     },
     {
       "name": "1: Road of Flames",
-      "category": "E: Blazing Core",
+      "category": "E Blazing Core",
       "region": "Episode 4"
     },
     {
       "name": "2: Parched Ground",
-      "category": "E: Blazing Core",
+      "category": "E Blazing Core",
       "region": "Episode 4"
     },
     {
       "name": "3: Blazing Field",
-      "category": "E: Blazing Core",
+      "category": "E Blazing Core",
       "region": "Episode 4"
     },
     {
       "name": "4: Molten Labyrinth",
-      "category": "E: Blazing Core",
+      "category": "E Blazing Core",
       "region": "Episode 4"
     },
     {
       "name": "1: Absolute Zero",
-      "category": "F: Jotunheim",
+      "category": "F Jotunheim",
       "region": "Episode 5"
     },
     {
       "name": "2: Endless White",
-      "category": "F: Jotunheim",
+      "category": "F Jotunheim",
       "region": "Episode 5"
     },
     {
       "name": "3: Terrible Cold",
-      "category": "F: Jotunheim",
+      "category": "F Jotunheim",
       "region": "Episode 5"
     },
     {
       "name": "4: Ice Queen",
-      "category": "F: Jotunheim",
+      "category": "F Jotunheim",
       "region": "Episode 5"
     },
     {
       "name": "1: Calamity Woods",
-      "category": "G: Blair Forest",
+      "category": "G Blair Forest",
       "region": "Episode 6"
     },
     {
       "name": "2: Ritual Site",
-      "category": "G: Blair Forest",
+      "category": "G Blair Forest",
       "region": "Episode 6"
     },
     {
       "name": "3: Witches' Den",
-      "category": "G: Blair Forest",
+      "category": "G Blair Forest",
       "region": "Episode 6"
     },
     {
       "name": "4: Writhing Shadow",
-      "category": "G: Blair Forest",
+      "category": "G Blair Forest",
       "region": "Episode 6"
     },
     {
       "name": "5: Nightdwellers",
-      "category": "G: Blair Forest",
+      "category": "G Blair Forest",
       "region": "Episode 6"
     },
     {
       "name": "1: Scorching Wind",
-      "category": "H: Salamander's Breath",
+      "category": "H Salamander's Breath",
       "region": "Episode 7"
     },
     {
       "name": "2: Column of Fire",
-      "category": "H: Salamander's Breath",
+      "category": "H Salamander's Breath",
       "region": "Episode 7"
     },
     {
       "name": "3: Raging Earth",
-      "category": "H: Salamander's Breath",
+      "category": "H Salamander's Breath",
       "region": "Episode 7"
     },
     {
       "name": "4: Crimson Plains",
-      "category": "H: Salamander's Breath",
+      "category": "H Salamander's Breath",
       "region": "Episode 7"
     },
     {
       "name": "5: Ember of Dreams",
-      "category": "H: Salamander's Breath",
+      "category": "H Salamander's Breath",
       "region": "Episode 7"
     },
     {
       "name": "1: Theatre of Death",
-      "category": "I: Lunar Snowfield",
+      "category": "I Lunar Snowfield",
       "region": "Episode 8"
     },
     {
       "name": "2: Frigid Garden",
-      "category": "I: Lunar Snowfield",
+      "category": "I Lunar Snowfield",
       "region": "Episode 8"
     },
     {
       "name": "3: Freezing Souls",
-      "category": "I: Lunar Snowfield",
+      "category": "I Lunar Snowfield",
       "region": "Episode 8"
     },
     {
       "name": "4: Under the Moon",
-      "category": "I: Lunar Snowfield",
+      "category": "I Lunar Snowfield",
       "region": "Episode 8"
     },
     {
       "name": "1: Valgupus IV",
-      "category": "J: Stellar Graveyard",
+      "category": "J Stellar Graveyard",
       "region": "Episode 9"
     },
     {
       "name": "2: Thurvean Sector",
-      "category": "J: Stellar Graveyard",
+      "category": "J Stellar Graveyard",
       "region": "Episode 9"
     },
     {
       "name": "3: Sphere VIII",
-      "category": "J: Stellar Graveyard",
+      "category": "J Stellar Graveyard",
       "region": "Episode 9"
     },
     {
       "name": "4: Cross-Point",
-      "category": "J: Stellar Graveyard",
+      "category": "J Stellar Graveyard",
       "region": "Episode 9"
     },
     {
       "name": "5: Primordial Soup",
-      "category": "J: Stellar Graveyard",
+      "category": "J Stellar Graveyard",
       "region": "Episode 9"
     },
     {
       "name": "1: Fervent Melody",
-      "category": "K: Sea of Gehenna",
+      "category": "K Sea of Gehenna",
       "region": "Episode 10"
     },
     {
       "name": "2: Wasteland of Woe",
-      "category": "K: Sea of Gehenna",
+      "category": "K Sea of Gehenna",
       "region": "Episode 10"
     },
     {
       "name": "3: River of Lava",
-      "category": "K: Sea of Gehenna",
+      "category": "K Sea of Gehenna",
       "region": "Episode 10"
     },
     {
       "name": "4: Searing Tyranny",
-      "category": "K: Sea of Gehenna",
+      "category": "K Sea of Gehenna",
       "region": "Episode 10"
     },
     {
       "name": "5: Inferno",
-      "category": "K: Sea of Gehenna",
+      "category": "K Sea of Gehenna",
       "region": "Episode 10"
     },
     {
       "name": "1: Ghostly Whisper",
-      "category": "L: Forest of the Dead",
+      "category": "L Forest of the Dead",
       "region": "Episode 11"
     },
     {
       "name": "2: Rising Fear",
-      "category": "L: Forest of the Dead",
+      "category": "L Forest of the Dead",
       "region": "Episode 11"
     },
     {
       "name": "3: Crawling Terror",
-      "category": "L: Forest of the Dead",
+      "category": "L Forest of the Dead",
       "region": "Episode 11"
     },
     {
       "name": "4: Hero's Tomb",
-      "category": "L: Forest of the Dead",
+      "category": "L Forest of the Dead",
       "region": "Episode 11"
     },
     {
       "name": "1: Embryon",
-      "category": "M: Stellar Graveyard II",
+      "category": "M Stellar Graveyard II",
       "region": "Episode 12"
     },
     {
       "name": "2: Core Point No. 4",
-      "category": "M: Stellar Graveyard II",
+      "category": "M Stellar Graveyard II",
       "region": "Episode 12"
     },
     {
       "name": "3: Star Cluster",
-      "category": "M: Stellar Graveyard II",
+      "category": "M Stellar Graveyard II",
       "region": "Episode 12"
     },
     {
       "name": "4: Sidereal Rift",
-      "category": "M: Stellar Graveyard II",
+      "category": "M Stellar Graveyard II",
       "region": "Episode 12"
     },
     {
       "name": "1: Point Alpha-III",
-      "category": "N: Gargantua Deck",
+      "category": "N Gargantua Deck",
       "region": "Episode 13"
     },
     {
       "name": "2: Main Corridor 1",
-      "category": "N: Gargantua Deck",
+      "category": "N Gargantua Deck",
       "region": "Episode 13"
     },
     {
       "name": "3: Main Corridor 2",
-      "category": "N: Gargantua Deck",
+      "category": "N Gargantua Deck",
       "region": "Episode 13"
     },
     {
       "name": "4: Main Corridor 3",
-      "category": "N: Gargantua Deck",
+      "category": "N Gargantua Deck",
       "region": "Episode 13"
     },
     {
       "name": "5: Bridge",
-      "category": "N: Gargantua Deck",
+      "category": "N Gargantua Deck",
       "region": "Episode 13"
     },
     {
       "name": "1: Field of Virtue",
-      "category": "O: Celestia",
+      "category": "O Celestia",
       "region": "Final Episode"
     },
     {
       "name": "2: Paradise",
-      "category": "O: Celestia",
+      "category": "O Celestia",
       "region": "Final Episode"
     },
     {
       "name": "3: Angelic Choir",
-      "category": "O: Celestia",
+      "category": "O Celestia",
       "region": "Final Episode"
     },
     {
       "name": "4: Coliseum",
-      "category": "O: Celestia",
+      "category": "O Celestia",
       "region": "Final Episode"
     },
     {
       "name": "5: Divine Prison",
-      "category": "O: Celestia",
+      "category": "O Celestia",
       "region": "Final Episode"
     },
     {
       "name": "1: Inner Sanctum",
-      "category": "P: Seraphic Sanctuary",
+      "category": "P Seraphic Sanctuary",
       "region": "Final Episode"
     },
     {
       "name": "2: Hall of Justice",
-      "category": "P: Seraphic Sanctuary",
+      "category": "P Seraphic Sanctuary",
       "region": "Final Episode"
     },
     {
       "name": "3: Sacred Altar",
-      "category": "P: Seraphic Sanctuary",
+      "category": "P Seraphic Sanctuary",
       "region": "Final Episode",
       "victory": true
     },
     {
       "name": "Complete Item World Floor 10",
-      "category": ["Z: Item World"],
+      "category": ["Z Item World"],
       "region": "Common Item World"
     },
     {
       "name": "Complete Item World Floor 20",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Common Item World"
     },
     {
       "name": "Complete Item World Floor 30",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Common Item World"
     },
     {
       "name": "Complete Item World Floor 40",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 50",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 60",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 70",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Rare Item World"
     },
     {
       "name": "Complete Item World Floor 80",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Legendary Item World"
     },
     {
       "name": "Complete Item World Floor 90",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Legendary Item World"
     },
     {
       "name": "Complete Item World Floor 100",
-      "category": ["Z: Item World", "Item World"],
+      "category": ["Z Item World", "Item World"],
       "region": "Legendary Item World"
     },
     {
       "name": "Brawler F Unlock: Pugilist",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Fighter",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Black Belt",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler F"]
     },
     {
       "name": "Brawler F Unlock: Wushu Master",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler F"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Brawler F Unlock: Eternal Fist",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler F"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Brawler M Unlock: Pugilist",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Fighter",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Black Belt",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler M"]
     },
     {
       "name": "Brawler M Unlock: Wushu Master",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler M"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Brawler M Unlock: Eternal Fist",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Brawler M"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Warrior F Unlock: Battler",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Centurion",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Champion",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior F"]
     },
     {
       "name": "Warrior F Unlock: Hero",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior F"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Warrior F Unlock: Cosmic Hero",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior F"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Warrior M Unlock: Battler",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Centurion",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Champion",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior M"]
     },
     {
       "name": "Warrior M Unlock: Hero",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior M"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Warrior M Unlock: Cosmic Hero",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Warrior M"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Ninja Unlock: Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["|Brawler M| AND |Warrior M|"]
     },
     {
       "name": "Ninja Unlock: Adept Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Elite Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Shadow Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ninja"]
     },
     {
       "name": "Ninja Unlock: Master Ninja",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
        "region": ["Ninja"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Ninja Unlock: Shinobi",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
        "region": ["Ninja"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Ronin Unlock: Ronin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["|Brawler F| AND |Warrior F|"]
     },
     {
       "name": "Ronin Unlock: Samurai",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Bushi",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Kengo",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ronin"]
     },
     {
       "name": "Ronin Unlock: Blade Master",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ronin"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Ronin Unlock: Shogun",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Ronin"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Archer Unlock: Archer",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["Episode 3 A Hint of Kindness"]
     },
     {
       "name": "Archer Unlock: Sniper",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Archer"]
     },
     {
       "name": "Archer Unlock: Striker",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Archer"]
     },
     {
       "name": "Archer Unlock: Valkyrie",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Archer"]
     },
     {
       "name": "Archer Unlock: Ace Archer",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Archer"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Archer Unlock: Freischutz",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Archer"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Scout Unlock: Scout",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["(|Brawler M| OR |Brawler F|) AND (|Warrior M| OR |Warrior F|)"]
     },
     {
       "name": "Scout Unlock: Surveyor",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Scout"]
     },
     {
       "name": "Scout Unlock: Ranger",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Scout"]
     },
     {
       "name": "Scout Unlock: Strider",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Scout"]
     },
     {
       "name": "Scout Unlock: Geo Master",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Scout"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Scout Unlock: Lord",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Scout"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Rogue Unlock: Rogue",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["(|Brawler M| OR |Brawler F|) AND (|Warrior M| OR |Warrior F|)"]
     },
     {
       "name": "Rogue Unlock: Thief",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Bandit",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Prowler",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Rogue"]
     },
     {
       "name": "Rogue Unlock: Raider",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Rogue"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Rogue Unlock: Space Pirate",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Rogue"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Mage Unlock: Star Mage",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Mage"]
     },
     {
       "name": "Mage Unlock: Prism Mage",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Mage"],
       "requires": ["Star Mage"]
     },
     {
       "name": "Mage Unlock: Galaxy Mage",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Mage"],
       "requires": ["|Prism Mage| AND |Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Skull Unlock: Star Skull",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Skull"]
     },
     {
       "name": "Skull Unlock: Prism Skull",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Skull"],
       "requires": ["Star Skull"]
     },
     {
       "name": "Skull Unlock: Galaxy Skull",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Skull"],
       "requires": ["|Prism Skull| AND |Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Knight Unlock: Knight",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["|Warrior F| AND |Mage|"]
     },
     {
       "name": "Knight Unlock: Vanquisher",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Knight"]
     },
     {
       "name": "Knight Unlock: Rune Knight",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Knight"]
     },
     {
       "name": "Knight Unlock: Chaos Knight",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Knight"]
     },
     {
       "name": "Knight Unlock: High Knight",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Knight"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Knight Unlock: Space Knight",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Knight"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Cleric F Unlock: Priest",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Bishop",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Sage",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric F"]
     },
     {
       "name": "Cleric F Unlock: Prophet",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric F"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Cleric F Unlock: Savior",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric F"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Cleric M Unlock: Priest",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Bishop",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Sage",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric M"]
     },
     {
       "name": "Cleric M Unlock: Prophet",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric M"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Cleric M Unlock: Savior",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Cleric M"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Recruit Unlock: Recruit",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "requires": ["|Scout| AND |Episode 10 Angels, Demons, and Humans|"]
     },
     {
       "name": "Recruit Unlock: Officer",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Recruit"]
     },
     {
       "name": "Recruit Unlock: Cyborg",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Recruit"]
     },
     {
       "name": "Recruit Unlock: Psi-Soldier",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Recruit"],
       "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
     },
     {
       "name": "Recruit Unlock: Space Police",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Recruit"],
-      "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
+      "requires": ["{Optall(|Progressive Demon Rank:6| AND |Cave of Ordeals|)}"]
     },
     {
       "name": "Recruit Unlock: Space Marine",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Recruit"],
-      "requires": ["|Progressive Demon Rank:6| AND |Cave of Ordeals|"]
+      "requires": ["{Optall(|Progressive Demon Rank:6| AND |Cave of Ordeals|)}"]
     },
     {
       "name": "Angel Unlock: Angel",
-      "category": ["X: Character Unlock", "Charactersanity"],
-      "requires": ["|Cleric F| AND |Knight| AND |Archer| AND |Progressive Demon Rank:6| AND |Cave of Ordeals|"]
+      "category": ["X Character Unlock", "Charactersanity"],
+      "requires": ["|Cleric F| AND |Knight| AND |Archer| AND {Optall(|Progressive Demon Rank:6| AND |Cave of Ordeals|)}"]
     },
     {
       "name": "Angel Unlock: Angel Cadet",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Angel"]
     },
     {
       "name": "Angel Unlock: Angel Soldier",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Angel"]
     },
     {
       "name": "Angel Unlock: Crusader",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Angel"]
     },
     {
       "name": "Angel Unlock: Avenger",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Angel"]
     },
     {
       "name": "Angel Unlock: Paladin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Angel"]
     },
     {
       "name": "Majin Unlock: Majin",
-      "category": ["X: Character Unlock", "Charactersanity"],
-      "requires": ["|Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND |Scout| AND |Progressive Demon Rank:6| AND |Cave of Ordeals|"]
+      "category": ["X Character Unlock", "Charactersanity"],
+      "requires": ["|Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND |Scout| AND {Optall(|Progressive Demon Rank:6| AND |Cave of Ordeals|)}"]
     },
     {
       "name": "Majin Unlock: Mega Majin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Majin"]
     },
     {
       "name": "Majin Unlock: Giga Majin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Majin"]
     },
     {
       "name": "Majin Unlock: Omega Majin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Majin"]
     },
     {
       "name": "Majin Unlock: Tera Majin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Majin"]
     },
     {
       "name": "Majin Unlock: Divine Majin",
-      "category": ["X: Character Unlock", "Charactersanity"],
+      "category": ["X Character Unlock", "Charactersanity"],
       "region": ["Majin"]
     },
     {
       "name": "1: Boulder Crush",
-      "category": ["W: Axe Skills", "Abilitysanity"],
-      "requires": ["OptOne(|@W: Axe Items:1|"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "requires": ["{OptOne(|@Y Axe Items:1|)}"]
     },
     {
       "name": "2: Skull Splitter",
-      "category": ["W: Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"]
     },
     {
       "name": "3: Colossal Fissure",
-      "category": ["W: Axe Skills", "Abilitysanity"],
+      "category": ["W Axe Skills", "Abilitysanity"],
       "region": ["Episode 3"]
     },
     {
       "name": "4: Violent Storm",
-      "category": ["W: Axe Skills", "Abilitysanity"],
+      "category": ["W Axe Skills", "Abilitysanity"],
       "region": ["Episode 5"]
     },
     {
       "name": "5: Graviton Bomb",
-      "category": ["W: Axe Skills", "Abilitysanity"],
+      "category": ["W Axe Skills", "Abilitysanity"],
       "region": ["Episode 8"]
     },
     {
       "name": "6: Calamity Drive",
-      "category": ["W: Axe Skills", "Abilitysanity"],
+      "category": ["W Axe Skills", "Abilitysanity"],
       "region": ["Episode 11"]
     },
     {
       "name": "1: Poison Arrow",
-      "category": ["W: Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"]
     },
     {
       "name": "2: Dark Flash",
-      "category": ["W: Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"]
     },
     {
       "name": "3: Delta Spirit",
-      "category": ["W: Bow Skills", "Abilitysanity"],
+      "category": ["W Bow Skills", "Abilitysanity"],
       "region": ["Episode 3"]
     },
     {
       "name": "4: Sturnhimmel",
-      "category": ["W: Bow Skills", "Abilitysanity"],
+      "category": ["W Bow Skills", "Abilitysanity"],
       "region": ["Episode 5"]
     },
     {
       "name": "5: Zielregen",
-      "category": ["W: Bow Skills", "Abilitysanity"],
+      "category": ["W Bow Skills", "Abilitysanity"],
       "region": ["Episode 8"]
     },
     {
       "name": "6: Doppelganger",
-      "category": ["W: Bow Skills", "Abilitysanity"],
+      "category": ["W Bow Skills", "Abilitysanity"],
       "region": ["Episode 11"]
     },
     {
       "name": "1: Triple Strike",
-      "category": ["W: Fist Skills", "Abilitysanity"]
+      "category": ["W Fist Skills", "Abilitysanity"]
     },
     {
       "name": "2: Tiger Charge",
-      "category": ["W: Fist Skills", "Abilitysanity"]
+      "category": ["W Fist Skills", "Abilitysanity"]
     },
     {
       "name": "3: Lion's Roar",
-      "category": ["W: Fist Skills", "Abilitysanity"],
+      "category": ["W Fist Skills", "Abilitysanity"],
       "region": ["Episode 3"]
     },
     {
       "name": "4: King of Beasts",
-      "category": ["W: Fist Skills", "Abilitysanity"],
+      "category": ["W Fist Skills", "Abilitysanity"],
       "region": ["Episode 5"]
     },
     {
       "name": "5: Rising Dragon",
-      "category": ["W: Fist Skills", "Abilitysanity"],
+      "category": ["W Fist Skills", "Abilitysanity"],
       "region": ["Episode 8"]
     },
     {
       "name": "6: Big Bang",
-      "category": ["W: Fist Skills", "Abilitysanity"],
+      "category": ["W Fist Skills", "Abilitysanity"],
       "region": ["Episode 11"]
     },
     {
       "name": "1: Tri-Burst",
-      "category": ["W: Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"]
     },
     {
       "name": "2: Rapidfire",
-      "category": ["W: Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"]
     },
     {
       "name": "3: Proximal Shot",
-      "category": ["W: Gun Skills", "Abilitysanity"],
+      "category": ["W Gun Skills", "Abilitysanity"],
       "region": ["Episode 3"]
     },
     {
       "name": "4: Bullet Storm",
-      "category": ["W: Gun Skills", "Abilitysanity"],
+      "category": ["W Gun Skills", "Abilitysanity"],
       "region": ["Episode 5"]
     },
     {
       "name": "5: Totenkreuz",
-      "category": ["W: Gun Skills", "Abilitysanity"],
+      "category": ["W Gun Skills", "Abilitysanity"],
       "region": ["Episode 8"]
     },
     {
       "name": "6: Inferno",
-      "category": ["W: Gun Skills", "Abilitysanity"],
+      "category": ["W Gun Skills", "Abilitysanity"],
       "region": ["Episode 11"]
     },
     {
       "name": "1: Impaler",
-      "category": ["W: Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"]
     },
     {
       "name": "2: Sky Lunge",
-      "category": ["W: Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"]
     },
     {
       "name": "3: Asteroid Drop",
-      "category": ["W: Spear Skills", "Abilitysanity"],
+      "category": ["W Spear Skills", "Abilitysanity"],
       "region": ["Episode 3"]
     },
     {
       "name": "4: Avalanche",
-      "category": ["W: Spear Skills", "Abilitysanity"],
+      "category": ["W Spear Skills", "Abilitysanity"],
       "region": ["Episode 5"]
     },
     {
       "name": "5: Turbulance",
-      "category": ["W: Spear Skills", "Abilitysanity"],
+      "category": ["W Spear Skills", "Abilitysanity"],
       "region": ["Episode 8"]
     },
     {
       "name": "6: Spear Storm",
-      "category": ["W: Spear Skills", "Abilitysanity"],
+      "category": ["W Spear Skills", "Abilitysanity"],
       "region": ["Episode 11"]
     },
     {
       "name": "1: Blade Rush",
-      "category": ["W: Sword Skills", "Abilitysanity"],
+      "category": ["W Sword Skills", "Abilitysanity"],
       "requires": ["OptOne(|@Swords:1|)"]
     },
     {
       "name": "2: Hurricane Slash",
-      "category": ["W: Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"]
     },
     {
       "name": "3: Wind Cutter",
-      "category": ["W: Sword Skills", "Abilitysanity"],
+      "category": ["W Sword Skills", "Abilitysanity"],
       "region": ["Episode 3"]
     },
     {
       "name": "4: Winged Slayer",
-      "category": ["W: Sword Skills", "Abilitysanity"],
+      "category": ["W Sword Skills", "Abilitysanity"],
       "region": ["Episode 5"]
     },
     {
       "name": "5: Nightsever",
-      "category": ["W: Sword Skills", "Abilitysanity"],
+      "category": ["W Sword Skills", "Abilitysanity"],
       "region": ["Episode 8"]
     },
     {
       "name": "6: Dimension Slash",
-      "category": ["W: Sword Skills", "Abilitysanity"],
+      "category": ["W Sword Skills", "Abilitysanity"],
       "region": ["Episode 11"]
     },
     {
       "name": "Heal",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Espoir",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Shield",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Mega Heal",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Magic Wall",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Giga Heal",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Omega Heal",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Cleric F| OR |Cleric M|"]
     },
     {
       "name": "Fire",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Red Mage| OR |Red Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Mega Fire",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Red Mage| OR |Red Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Giga Fire",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Red Mage| OR |Red Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Omega Fire",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Red Mage| OR |Red Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Tera Fire",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Red Mage|"]
     },
     {
       "name": "Ice",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Blue Mage| OR |Blue Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Mega Ice",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Blue Mage| OR |Blue Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Giga Ice",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Blue Mage| OR |Blue Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Omega Ice",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Blue Mage| OR |Blue Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Tera Ice",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Blue Mage|"]
     },
     {
       "name": "Wind",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Green Mage| OR |Green Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Mega Wind",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Green Mage| OR |Green Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Giga Wind",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Green Mage| OR |Green Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Omega Wind",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Green Mage| OR |Green Skull| OR |Prism Mage| OR |Prism Skull|"]
     },
     {
       "name": "Tera Wind",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Green Mage|"]
     },
     {
       "name": "Magic Boost",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "region": ["Mage"]
     },
     {
       "name": "Braveheart",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "region": ["Mage"]
     },
     {
       "name": "Star",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Star Mage| OR |Star Skull|"]
     },
     {
       "name": "Mega Star",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Star Mage| OR |Star Skull|"]
     },
     {
       "name": "Giga Star",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Star Mage| OR |Star Skull|"]
     },
     {
       "name": "Omega Star",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Star Mage| OR |Star Skull|"]
     },
     {
       "name": "Tera Star",
-      "category": ["S: Spell Skills", "Abilitysanity"],
+      "category": ["S Spell Skills", "Abilitysanity"],
       "requires": ["|Star Mage| OR |Star Skull|"]
     },
     {
       "name": "Common Axe: Rank 1",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Villager's Axe: Rank 2",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Battle Axe: Rank 3",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bronze Axe: Rank 4",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Iron Axe: Rank 5",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Tomahawk: Rank 6",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Warrior's Axe: Rank 7",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mighty Axe: Rank 8",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Steel Axe: Rank 9",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Stamina Axe: Rank 10",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Axe of Sorcery: Rank 11",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Pixie Axe: Rank 12",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Falcon Axe: Rank 13",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Enchanted Axe: Rank 14",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Silver Axe: Rank 15",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Dwarven Axe: Rank 16",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bloody Axe: Rank 17",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Adamant Axe: Rank 18",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Demon's Axe: Rank 19",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Dream Axe: Rank 20",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Headhunter: Rank 21",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Hero's Axe: Rank 22",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mistral Axe: Rank 23",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Jupiter's Axe: Rank 24",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Golden Axe: Rank 25",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Vigaro's Axe: Rank 26",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Axe of Death: Rank 27",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Rune Axe: Rank 28",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Terra Firma: Rank 29",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Hellish Axe: Rank 30",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bahamut's Talon: Rank 31",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Platinum Axe: Rank 32",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Axe of Slaughter: Rank 33",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mercurius: Rank 34",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Diabolic Axe: Rank 35",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Empyrean Axe: Rank 36",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Balmung: Rank 37",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Infernal Axe: Rank 38",
-      "category": ["Y: Axe Items", "Itemsanity"]
+      "category": ["Y Axe Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Common Sword: Rank 1",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Starting Items", "Itemsanity"],
+      "region": ["Product Rank 1"],
+      "prehint": true
     },
     {
       "name": "Shortsword: Rank 2",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Swordbreaker: Rank 3",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bronze Sword: Rank 4",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Long Sword: Rank 5",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Ninja Sword: Rank 6",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Sharp Edge: Rank 7",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bastard Sword: Rank 8",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Broad Sword: Rank 9",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Magic Sword: Rank 10",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "2-Pronged Blade: Rank 11",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Great Sword: Rank 12",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Taser Sword: Rank 13",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mortuus Blade: Rank 14",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Psychic Sword: Rank 15",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Stabbing Knife: Rank 16",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Evil Thwarter: Rank 17",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Hibernal Sword: Rank 18",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Muramasa: Rank 19",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Light Sabre: Rank 20",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Vajra: Rank 21",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mistral Sword: Rank 22",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Jupiter's Sword: Rank 23",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bloodlust: Rank 24",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Masamune: Rank 25",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bahamut's Fang: Rank 26",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Adamant Sword: Rank 27",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Demon Killer: Rank 28",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Wyrmslayer: Rank 29",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Laevateinn: Rank 30",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Diabolic Sword: Rank 31",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Crusade: Rank 32",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Kusanagi: Rank 33",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Excalibur: Rank 34",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Shichishi-Tou: Rank 35",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Infernal Sword: Rank 36",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Arondight: Rank 37",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Amano-Hahakiri: Rank 38",
-      "category": ["Y: Sword Items", "Itemsanity"]
+      "category": ["Y Sword Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Wristband: Rank 1",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Rock Fist: Rank 2",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Double Slap: Rank 3",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Leather Glove: Rank 4",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Iron Claw: Rank 5",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Power Gauntlet: Rank 6",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Hyper Knuckle: Rank 7",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Lethal Knuckle: Rank 8",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Fake Fist: Rank 9",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Cross Counter: Rank 10",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Swift Knuckle: Rank 11",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Magic Cuff: Rank 12",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Poison Knuckle: Rank 13",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Megaton Punch: Rank 14",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Fist of Fury: Rank 15",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mach Punch: Rank 16",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Spiked Glove: Rank 17",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bagh Nakh: Rank 18",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mystic Hand: Rank 19",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Metal Fist: Rank 20",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Silver Arm: Rank 21",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Demonic Fist: Rank 22",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Karate Chop: Rank 23",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mistral Fist: Rank 24",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Jupiter's Fist: Rank 25",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Straight Punch: Rank 26",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mirage: Rank 27",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Kwanca: Rank 28",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bahamut's Fist: Rank 29",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Golden Arm: Rank 30",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Crisis: Rank 31",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Diabolic Fist: Rank 32",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Platinum Arm: Rank 33",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Galactica: Rank 34",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Terra Smasher: Rank 35",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Punisher: Rank 36",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Zodiac: Rank 37",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Infernal Fist: Rank 38",
-      "category": ["Y: Fist Items", "Itemsanity"]
+      "category": ["Y Fist Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Common Spear: Rank 1",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Starting Items", "Itemsanity"],
+      "region": ["Product Rank 1"],
+      "prehint": true
     },
     {
       "name": "Iron Lance: Rank 2",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Knight's Lance: Rank 3",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bogus Spear: Rank 4",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Long Spear: Rank 5",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Koshimoto Spear: Rank 6",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bushido Lance: Rank 7",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Trident: Rank 8",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Paralyzing Spear: Rank 9",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Falcon Lance: Rank 10",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Forgetful Spear: Rank 11",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Black Spear: Rank 12",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Silver Lance: Rank 13",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Kung Fu Spear: Rank 14",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Venomous Spear: Rank 15",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Moonlight: Rank 16",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Skewer: Rank 17",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Mistral Spear: Rank 18",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Jupiter's Spear: Rank 19",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Special Lance: Rank 20",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Vile Brilliance: Rank 21",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Golden Lance: Rank 22",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bone Lance: Rank 23",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Zephyr: Rank 24",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Bahamut's Horn: Rank 25",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Benkai: Rank 26",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Demonic Spear: Rank 27",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Pallas Athene: Rank 28",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Kiyomasa: Rank 29",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Hero's Spear: Rank 30",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Platinum Lance: Rank 31",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Lu Shuwen: Rank 32",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Diabolic Spear: Rank 33",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Walkeure: Rank 34",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Gungnir: Rank 35",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Gae Bolga: Rank 36",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Chaladholg: Rank 37",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Infernal Spear: Rank 38",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     },
     {
       "name": "Longinus: Rank 39",
-      "category": ["Y: Spear Items", "Itemsanity"]
+      "category": ["Y Spear Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Common Bow: Rank 1",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Hunter's Bow: Rank 2",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Longbow: Rank 3",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Big Arrow: Rank 4",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Blessed Bow: Rank 5",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Pixie Bow: Rank 6",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Enchanted Arrow: Rank 7",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Warrior's Bow: Rank 8",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Sprite Bow: Rank 9",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Venomous Bow: Rank 10",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Elven Bow: Rank 11",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Spirit Bow: Rank 12",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Master Bow: Rank 13",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bow of Havoc: Rank 14",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bow of Justice: Rank 15",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Silver Bow: Rank 16",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Flex Bow: Rank 17",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Plasma Arrow: Rank 18",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Hero's Bow: Rank 19",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Shining Arrow: Rank 20",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mistral Bow: Rank 21",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Jupiter's Bow: Rank 22",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Golden Bow: Rank 23",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Judgement Arrow: Rank 24",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Remote Bow: Rank 25",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Platinum Bow: Rank 26",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Kuki: Rank 27",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bow of Virtue: Rank 28",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Arcane Bow: Rank 29",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Yoichi's Bow: Rank 30",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bahamut's Aim: Rank 31",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Percival: Rank 32",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Prometheus: Rank 33",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Starchaser: Rank 34",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Diabolic Bow: Rank 35",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Ull's Bow: Rank 36",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Fleche Enflamee: Rank 37",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Infernal Bow: Rank 38",
+      "category": ["Y Bow Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ22 Common: Rank 1",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Model 24: Rank 2",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ38 Custom: Rank 3",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dolphin EX: Rank 4",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ-P38: Rank 5",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Nether 35: Rank 6",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "KLZ900: Rank 7",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ44 Magnum: Rank 8",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Model 48: Rank 9",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dune Eagle: Rank 10",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Nether 58: Rank 11",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "ZK Auto 13: Rank 12",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Ion 8k Ninja: Rank 13",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Model 56: Rank 14",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ57 Dragon: Rank 15",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "LDT52-R: Rank 16",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Nether 72: Rank 17",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "P50-XX: Rank 18",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Ion 9k Samurai: Rank 19",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ66 Saint: Rank 20",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "GH401WZ: Rank 21",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "H30k: Rank 22",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "PS-714: Rank 23",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ77 Godslayer: Rank 24",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Nether 108: Rank 25",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "T-199X: Rank 26",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Karlten: Rank 27",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "RQ99 Omega: Rank 28",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Gilgamesh: Rank 29",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Olympus: Rank 30",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Odyssey: Rank 31",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Phillipan: Rank 32",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Fujiyama: Rank 33",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Beowulf: Rank 34",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Tiamat: Rank 35",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Brunhild: Rank 36",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Siegfried: Rank 37",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Fenrir: Rank 38",
+      "category": ["Y Gun Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Wooden Staff: Rank 1",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Light Staff: Rank 2",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Witch's Staff: Rank 3",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mage's Staff: Rank 4",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Smiting Rod: Rank 5",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Quality Staff: Rank 6",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Hibernal Staff: Rank 7",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Stamina Staff: Rank 8",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Swordstaff: Rank 9",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Pixie Staff: Rank 10",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Forgetful Staff: Rank 11",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mortuus Staff: Rank 12",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Staff of Sorcery: Rank 13",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Silver Staff: Rank 14",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Elven Staff: Rank 15",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Blessed Staff: Rank 16",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Sage's Staff: Rank 17",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Staff of Hope: Rank 18",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Enchanted Staff: Rank 19",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mistral Staff: Rank 20",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Jupiter's Staff: Rank 21",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Staff of Virtue: Rank 22",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Golden Staff: Rank 23",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Prophet's Staff: Rank 24",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Rune Staff: Rank 25",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Rainbow Rod: Rank 26",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bahamut's Wit: Rank 27",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Holy Staff: Rank 28",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Saint's Staff: Rank 29",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Gambantein: Rank 30",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Diabolic Staff: Rank 31",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Tainted Staff: Rank 32",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Polansky's Staff: Rank 33",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Yggdragsil: Rank 34",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mjollnir: Rank 35",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dark Matter: Rank 36",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Kerykeion: Rank 37",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Infernal Staff: Rank 38",
+      "category": ["Y Staff Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Paw Glove: Rank 1",
+      "category": ["Y Starting Items", "Itemsanity"],
+      "region": ["Product Rank 1"],
+      "prehint": true
+    },
+    {
+      "name": "Scratch Glove: Rank 2",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Crab Pincer: Rank 3",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Shocking Grasp: Rank 4",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Poison Needle: Rank 5",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bat Parasol: Rank 6",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Cat's Claw: Rank 7",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Lizard Tail: Rank 8",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Porcu-Spine: Rank 9",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Electric Eel: Rank 10",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Cobra Fang: Rank 11",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Spiked Shell: Rank 12",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Wolf Fang: Rank 13",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Tentacles: Rank 14",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Vampire Fang: Rank 15",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Gorilla Foot: Rank 16",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Lionheart: Rank 17",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bear Claw: Rank 18",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Tiger Fang: Rank 19",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Panda Claw: Rank 20",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Nessie Attack: Rank 21",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Medusa Eye: Rank 22",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Brocken: Rank 23",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Demon's Hand: Rank 24",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Fiendish Claw: Rank 25",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Primal Force: Rank 26",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Goblin's Fury: Rank 27",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mystic Eye: Rank 28",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Geo Saber: Rank 29",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Destroy: Rank 30",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Lightning Fang: Rank 31",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dragon Tooth: Rank 32",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Enigma: Rank 33",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Orichalch Claw: Rank 34",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "El Dorado: Rank 35",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dragon Heart: Rank 36",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Belial Force: Rank 37",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Amon Force: Rank 38",
+      "category": ["Y Monster Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Amulet: Rank 1",
+      "category": ["Y Starting Items", "Itemsanity"],
+      "region": ["Product Rank 1"],
+      "prehint": true
+    },
+    {
+      "name": "Protector: Rank 2",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bulletproof Vest: Rank 3",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Fancy Lid: Rank 4",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Leather Jacket: Rank 5",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Chain Mail: Rank 6",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dimensional Cape: Rank 7",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Power Jacket: Rank 8",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bushido Armor: Rank 9",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Magic Vest: Rank 10",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Muscle Armor: Rank 11",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Steel Armor: Rank 12",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Fur Coat: Rank 13",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dandy Gown: Rank 14",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Stealth Cape: Rank 15",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Stinky Jacket: Rank 16",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Ghost Cape: Rank 17",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Prophet's Robe: Rank 18",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Silver Tux: Rank 19",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Gritty Vest: Rank 20",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mistral Armor: Rank 21",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Jupiter's Armor: Rank 22",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Cactus Armor: Rank 23",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Hero Cape: Rank 24",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Gold Tux: Rank 25",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Reaper's Cloak: Rank 26",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Black Armor: Rank 27",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Nine Tail Fur: Rank 28",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Platinum Tux: Rank 29",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Dragon Jacket: Rank 30",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Orichalch Shield: Rank 31",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bahamut's Scale: Rank 32",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Evil Armor: Rank 33",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Shield of Aegis: Rank 34",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Celestial Armor: Rank 35",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Infernal Cape: Rank 36",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Infernal Shield: Rank 37",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Infernal Armor: Rank 38",
+      "category": ["Y Armor Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Quasi-Power Belt: Rank 1",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Power Belt: Rank 3",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Endeavor Belt: Rank 5",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Belt of Will: Rank 7",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Mega-Power Belt: Rank 9",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Monster Belt: Rank 11",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Super Belt: Rank 13",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Steel Belt: Rank 15",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Aura Belt: Rank 17",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Love Belt: Rank 19",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Spirit Belt: Rank 21",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Hero Belt: Rank 23",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Soul Belt: Rank 25",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Training Belt: Rank 27",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
+    },
+    {
+      "name": "Bravery Belt: Rank 29",
+      "category": ["Y Belt Items", "Itemsanity"],
+      "region": ["Product Rank 1"]
     }
   ]
 }

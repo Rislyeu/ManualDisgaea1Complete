@@ -1,22 +1,27 @@
 {
-    "Item World": {
-    "hidden": true,
-    "yaml_option": ["Enable_Item_World"]
+ "Item World": {
+   "hidden": true,
+   "yaml_option": ["Enable_Item_World"]
  },
-    "Charactersanity": {
-    "hidden": true,
-    "yaml_option": ["Enable_Charactersanity"]
+ 
+ "Charactersanity": {
+   "hidden": true,
+   "yaml_option": ["Enable_Charactersanity"]
  },
-    "Itemsanity": {
-    "hidden": true,
-    "yaml_option": ["Enable_Itemsanity"]
+ "Itemsanity": {
+   "hidden": true,
+   "yaml_option": ["Enable_Itemsanity"]
  },
-    "Monstersanity": {
-    "hidden": true,
-    "yaml_option": ["Enable_Monstersanity"]
+ "Monstersanity": {
+   "hidden": true,
+   "yaml_option": ["Enable_Monstersanity"]
  },
-    "Abilitysanity": {
-    "hidden": true,
-    "yaml_option": ["Enable_Abilitysanity"]
+ "Abilitysanity": {
+   "hidden": true,
+   "yaml_option": ["Enable_Abilitysanity"]
+ },
+ "Enable Assembly": {
+   "hidden": true,
+   "yaml_option": ["Enable_Dark_Assembly"]
  }
 }

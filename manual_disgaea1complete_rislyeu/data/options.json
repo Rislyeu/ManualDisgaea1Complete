@@ -59,6 +59,21 @@
             "type": "Toggle",
             "default": false,
             "group": "Sanity Options"
+        },
+        "Enable_Dark_Assembly":{
+            "description": ["Adds Items for all the Dark Assembly features that must be found before you can take advantage of them.",  
+            "Regardless of this setting, The first 4 options on the Dark Assembly will be available to you (Senator List, Create New Character, Delete a Character, Change Name.",  
+            "Enabled by default and will cause you to get many more filler items if disabled."],
+            "type": "Toggle",
+            "default": true,
+            "group": "Basic Random Options"
+        },
+        "Enable_Special_Characters":{
+            "description": ["Adds Items for all the characters that join your party throughout the story.  When you obtain them you must have the item in the manual in order to deploy them onto a map.",  
+            "Enabled by default and will cause you to get a few more filler items if disabled."],
+            "type": "Toggle",
+            "default": true,
+            "group": "Basic Random Options"
         }
     }
 
