@@ -3,7 +3,6 @@
    "hidden": true,
    "yaml_option": ["Enable_Item_World"]
  },
- 
  "Charactersanity": {
    "hidden": true,
    "yaml_option": ["Enable_Charactersanity"]
@@ -23,5 +22,9 @@
  "Enable Assembly": {
    "hidden": true,
    "yaml_option": ["Enable_Dark_Assembly"]
+ },
+ "Special Units": {
+   "hidden": true,
+   "yaml_option": ["Enable_Special_Characters"]
  }
 }

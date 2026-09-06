@@ -209,7 +209,7 @@
     {
       "name": "Laharl",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Characters"],
       "useful": true
     },
     {
@@ -221,43 +221,43 @@
     {
       "name": "Flonne",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
       "name": "Hoggmeiser",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
       "name": "Maderas",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
       "name": "Gordon",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
       "name": "Jennifer",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
       "name": "Thursday",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
       "name": "Kurtis",
       "count": 1,
-      "category": ["Special Units"],
+      "category": ["Special Units", "Special Characters"],
       "useful": true
     },
     {
@@ -875,327 +875,3661 @@
     {
       "name": "1: Boulder Crush",
       "count": 1,
-      "category": ["W Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "2: Skull Splitter",
       "count": 1,
-      "category": ["W Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "3: Colossal Fissure",
       "count": 1,
-      "category": ["W Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "4: Violent Storm",
       "count": 1,
-      "category": ["W Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "5: Graviton Bomb",
       "count": 1,
-      "category": ["W Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "6: Calamity Drive",
       "count": 1,
-      "category": ["W Axe Skills", "Abilitysanity"]
+      "category": ["W Axe Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "1: Poison Arrow",
       "count": 1,
-      "category": ["W Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "2: Dark Flash",
       "count": 1,
-      "category": ["W Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "3: Delta Spirit",
       "count": 1,
-      "category": ["W Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "4: Sturnhimmel",
       "count": 1,
-      "category": ["W Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "5: Zielregen",
       "count": 1,
-      "category": ["W Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "6: Doppelganger",
       "count": 1,
-      "category": ["W Bow Skills", "Abilitysanity"]
+      "category": ["W Bow Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "1: Triple Strike",
       "count": 1,
-      "category": ["W Fisr Skills", "Abilitysanity"]
+      "category": ["W Fisr Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "2: Tiger Charge",
       "count": 1,
-      "category": ["W Fisr Skills", "Abilitysanity"]
+      "category": ["W Fisr Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "3: Lion's Roar",
       "count": 1,
-      "category": ["W Fisr Skills", "Abilitysanity"]
+      "category": ["W Fisr Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "4: King of Beasts",
       "count": 1,
-      "category": ["W Fisr Skills", "Abilitysanity"]
+      "category": ["W Fisr Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "5: Rising Dragon",
       "count": 1,
-      "category": ["W Fisr Skills", "Abilitysanity"]
+      "category": ["W Fisr Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "6: Big Bang",
       "count": 1,
-      "category": ["W Fisr Skills", "Abilitysanity"]
+      "category": ["W Fisr Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "1: Tri-Burst",
       "count": 1,
-      "category": ["W Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "2: Rapidfire",
       "count": 1,
-      "category": ["W Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "3: Proximal Shot",
       "count": 1,
-      "category": ["W Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "4: Bullet Storm",
       "count": 1,
-      "category": ["W Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "5: Totenkreuz",
       "count": 1,
-      "category": ["W Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "6: Inferno",
       "count": 1,
-      "category": ["W Gun Skills", "Abilitysanity"]
+      "category": ["W Gun Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "1: Impaler",
       "count": 1,
-      "category": ["W Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "2: Sky Lunge",
       "count": 1,
-      "category": ["W Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "3: Asteroid Drop",
       "count": 1,
-      "category": ["W Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "4: Avalanche",
       "count": 1,
-      "category": ["W Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "5: Turbulance",
       "count": 1,
-      "category": ["W Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "6: Spear Storm",
       "count": 1,
-      "category": ["W Spear Skills", "Abilitysanity"]
+      "category": ["W Spear Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "1: Blade Rush",
       "count": 1,
-      "category": ["W Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "2: Hurricane Slash",
       "count": 1,
-      "category": ["W Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "3: Wind Cutter",
       "count": 1,
-      "category": ["W Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "4: Winged Slayer",
       "count": 1,
-      "category": ["W Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "5: Nightsever",
       "count": 1,
-      "category": ["W Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "6: Dimension Slash",
       "count": 1,
-      "category": ["W Sword Skills", "Abilitysanity"]
+      "category": ["W Sword Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Heal",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Espoir",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Shield",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Mega Heal",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Magic Wall",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Giga Heal",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Omega Heal",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Fire",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Mega Fire",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Giga Fire",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Omega Fire",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Tera Fire",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Ice",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Mega Ice",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Giga Ice",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Omega Ice",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Tera Ice",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Wind",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Mega Wind",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Giga Wind",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Omega Wind",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Tera Wind",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Magic Boost",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Braveheart",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Star",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Mega Star",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Giga Star",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Omega Star",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
     },
     {
       "name": "Tera Star",
       "count": 1,
-      "category": ["S Spell Skills", "Abilitysanity"]
+      "category": ["S Spell Skills", "Abilitysanity"],
+      "useful": true
+    },
+    {
+      "name": "Common Axe: Rank 1",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Villager's Axe: Rank 2",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Battle Axe: Rank 3",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bronze Axe: Rank 4",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Iron Axe: Rank 5",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Tomahawk: Rank 6",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Warrior's Axe: Rank 7",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mighty Axe: Rank 8",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Steel Axe: Rank 9",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Stamina Axe: Rank 10",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Axe of Sorcery: Rank 11",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Pixie Axe: Rank 12",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"]
+    },
+    {
+      "name": "Falcon Axe: Rank 13",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Enchanted Axe: Rank 14",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Silver Axe: Rank 15",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dwarven Axe: Rank 16",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bloody Axe: Rank 17",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Adamant Axe: Rank 18",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Demon's Axe: Rank 19",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dream Axe: Rank 20",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Headhunter: Rank 21",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hero's Axe: Rank 22",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Axe: Rank 23",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Axe: Rank 24",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Golden Axe: Rank 25",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Vigaro's Axe: Rank 26",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Axe of Death: Rank 27",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Rune Axe: Rank 28",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Terra Firma: Rank 29",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hellish Axe: Rank 30",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Talon: Rank 31",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Platinum Axe: Rank 32",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Axe of Slaughter: Rank 33",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mercurius: Rank 34",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Diabolic Axe: Rank 35",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Empyrean Axe: Rank 36",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Balmung: Rank 37",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Axe: Rank 38",
+      "count": 1,
+      "category": ["Y Axe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Common Sword: Rank 1",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Shortsword: Rank 2",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Swordbreaker: Rank 3",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bronze Sword: Rank 4",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Long Sword: Rank 5",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Ninja Sword: Rank 6",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Sharp Edge: Rank 7",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bastard Sword: Rank 8",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Broad Sword: Rank 9",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Magic Sword: Rank 10",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "2-Pronged Blade: Rank 11",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Great Sword: Rank 12",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Taser Sword: Rank 13",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mortuus Blade: Rank 14",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Psychic Sword: Rank 15",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Stabbing Knife: Rank 16",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Evil Thwarter: Rank 17",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hibernal Sword: Rank 18",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muramasa: Rank 19",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Light Sabre: Rank 20",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Vajra: Rank 21",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Sword: Rank 22",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Sword: Rank 23",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bloodlust: Rank 24",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Masamune: Rank 25",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Fang: Rank 26",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Adamant Sword: Rank 27",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Demon Killer: Rank 28",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Wyrmslayer: Rank 29",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Laevateinn: Rank 30",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Diabolic Sword: Rank 31",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Crusade: Rank 32",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Kusanagi: Rank 33",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Excalibur: Rank 34",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Shichishi-Tou: Rank 35",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Sword: Rank 36",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Arondight: Rank 37",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Amano-Hahakiri: Rank 38",
+      "count": 1,
+      "category": ["Y Sword Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Wristband: Rank 1",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Rock Fist: Rank 2",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Double Slap: Rank 3",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Leather Glove: Rank 4",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Iron Claw: Rank 5",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Power Gauntlet: Rank 6",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hyper Knuckle: Rank 7",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Lethal Knuckle: Rank 8",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fake Fist: Rank 9",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cross Counter: Rank 10",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Swift Knuckle: Rank 11",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Magic Cuff: Rank 12",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Poison Knuckle: Rank 13",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Megaton Punch: Rank 14",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fist of Fury: Rank 15",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mach Punch: Rank 16",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Spiked Glove: Rank 17",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bagh Nakh: Rank 18",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mystic Hand: Rank 19",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Metal Fist: Rank 20",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Silver Arm: Rank 21",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Demonic Fist: Rank 22",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Karate Chop: Rank 23",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Fist: Rank 24",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Fist: Rank 25",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Straight Punch: Rank 26",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mirage: Rank 27",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Kwanca: Rank 28",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Fist: Rank 29",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Golden Arm: Rank 30",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Crisis: Rank 31",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Diabolic Fist: Rank 32",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Platinum Arm: Rank 33",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Galactica: Rank 34",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Terra Smasher: Rank 35",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Punisher: Rank 36",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Zodiac: Rank 37",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Fist: Rank 38",
+      "count": 1,
+      "category": ["Y Fist Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Common Spear: Rank 1",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Iron Lance: Rank 2",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Knight's Lance: Rank 3",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bogus Spear: Rank 4",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Long Spear: Rank 5",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Koshimoto Spear: Rank 6",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bushido Lance: Rank 7",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Trident: Rank 8",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Paralyzing Spear: Rank 9",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Falcon Lance: Rank 10",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Forgetful Spear: Rank 11",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Black Spear: Rank 12",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Silver Lance: Rank 13",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Kung Fu Spear: Rank 14",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Venomous Spear: Rank 15",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Moonlight: Rank 16",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Skewer: Rank 17",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Spear: Rank 18",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Spear: Rank 19",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Special Lance: Rank 20",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Vile Brilliance: Rank 21",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Golden Lance: Rank 22",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bone Lance: Rank 23",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Zephyr: Rank 24",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Horn: Rank 25",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Benkai: Rank 26",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Demonic Spear: Rank 27",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Pallas Athene: Rank 28",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Kiyomasa: Rank 29",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hero's Spear: Rank 30",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Platinum Lance: Rank 31",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Lu Shuwen: Rank 32",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Diabolic Spear: Rank 33",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Walkeure: Rank 34",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gungnir: Rank 35",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gae Bolga: Rank 36",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Chaladholg: Rank 37",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Spear: Rank 38",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Longinus: Rank 39",
+      "count": 1,
+      "category": ["Y Spear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Common Bow: Rank 1",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hunter's Bow: Rank 2",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Longbow: Rank 3",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Big Arrow: Rank 4",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Blessed Bow: Rank 5",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Pixie Bow: Rank 6",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Enchanted Arrow: Rank 7",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Warrior's Bow: Rank 8",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Sprite Bow: Rank 9",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Venomous Bow: Rank 10",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Elven Bow: Rank 11",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Spirit Bow: Rank 12",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Master Bow: Rank 13",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bow of Havoc: Rank 14",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bow of Justice: Rank 15",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Silver Bow: Rank 16",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Flex Bow: Rank 17",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Plasma Arrow: Rank 18",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hero's Bow: Rank 19",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Shining Arrow: Rank 20",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Bow: Rank 21",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Bow: Rank 22",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Golden Bow: Rank 23",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Judgement Arrow: Rank 24",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Remote Bow: Rank 25",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Platinum Bow: Rank 26",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Kuki: Rank 27",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bow of Virtue: Rank 28",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Arcane Bow: Rank 29",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Yoichi's Bow: Rank 30",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Aim: Rank 31",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Percival: Rank 32",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Prometheus: Rank 33",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Starchaser: Rank 34",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Diabolic Bow: Rank 35",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Ull's Bow: Rank 36",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fleche Enflamee: Rank 37",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Bow: Rank 38",
+      "count": 1,
+      "category": ["Y Bow Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ22 Common: Rank 1",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Model 24: Rank 2",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ38 Custom: Rank 3",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dolphin EX: Rank 4",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ-P38: Rank 5",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nether 35: Rank 6",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "KLZ900: Rank 7",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ44 Magnum: Rank 8",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Model 48: Rank 9",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dune Eagle: Rank 10",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nether 58: Rank 11",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "ZK Auto 13: Rank 12",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Ion 8k Ninja: Rank 13",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Model 56: Rank 14",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ57 Dragon: Rank 15",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "LDT52-R: Rank 16",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nether 72: Rank 17",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "P50-XX: Rank 18",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Ion 9k Samurai: Rank 19",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ66 Saint: Rank 20",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "GH401WZ: Rank 21",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "H30k: Rank 22",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "PS-714: Rank 23",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ77 Godslayer: Rank 24",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nether 108: Rank 25",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "T-199X: Rank 26",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Karlten: Rank 27",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "RQ99 Omega: Rank 28",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gilgamesh: Rank 29",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Olympus: Rank 30",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Odyssey: Rank 31",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Phillipan: Rank 32",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fujiyama: Rank 33",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Beowulf: Rank 34",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Tiamat: Rank 35",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Brunhild: Rank 36",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Siegfried: Rank 37",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fenrir: Rank 38",
+      "count": 1,
+      "category": ["Y Gun Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Wooden Staff: Rank 1",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Light Staff: Rank 2",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Witch's Staff: Rank 3",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mage's Staff: Rank 4",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Smiting Rod: Rank 5",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Quality Staff: Rank 6",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hibernal Staff: Rank 7",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Stamina Staff: Rank 8",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Swordstaff: Rank 9",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Pixie Staff: Rank 10",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Forgetful Staff: Rank 11",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mortuus Staff: Rank 12",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Staff of Sorcery: Rank 13",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Silver Staff: Rank 14",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Elven Staff: Rank 15",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Blessed Staff: Rank 16",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Sage's Staff: Rank 17",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Staff of Hope: Rank 18",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Enchanted Staff: Rank 19",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Staff: Rank 20",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Staff: Rank 21",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Staff of Virtue: Rank 22",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Golden Staff: Rank 23",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Prophet's Staff: Rank 24",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Rune Staff: Rank 25",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Rainbow Rod: Rank 26",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Wit: Rank 27",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Holy Staff: Rank 28",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Saint's Staff: Rank 29",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gambantein: Rank 30",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Diabolic Staff: Rank 31",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Tainted Staff: Rank 32",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Polansky's Staff: Rank 33",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Yggdragsil: Rank 34",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mjollnir: Rank 35",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dark Matter: Rank 36",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Kerykeion: Rank 37",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Staff: Rank 38",
+      "count": 1,
+      "category": ["Y Staff Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Paw Glove: Rank 1",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Scratch Glove: Rank 2",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Crab Pincer: Rank 3",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Shocking Grasp: Rank 4",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Poison Needle: Rank 5",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bat Parasol: Rank 6",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cat's Claw: Rank 7",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Lizard Tail: Rank 8",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Porcu-Spine: Rank 9",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Electric Eel: Rank 10",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cobra Fang: Rank 11",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Spiked Shell: Rank 12",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Wolf Fang: Rank 13",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Tentacles: Rank 14",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Vampire Fang: Rank 15",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gorilla Foot: Rank 16",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Lionheart: Rank 17",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bear Claw: Rank 18",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Tiger Fang: Rank 19",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Panda Claw: Rank 20",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nessie Attack: Rank 21",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Medusa Eye: Rank 22",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Brocken: Rank 23",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Demon's Hand: Rank 24",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fiendish Claw: Rank 25",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Primal Force: Rank 26",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Goblin's Fury: Rank 27",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mystic Eye: Rank 28",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Geo Saber: Rank 29",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Destroy: Rank 30",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Lightning Fang: Rank 31",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dragon Tooth: Rank 32",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Enigma: Rank 33",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Orichalch Claw: Rank 34",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "El Dorado: Rank 35",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dragon Heart: Rank 36",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Belial Force: Rank 37",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Amon Force: Rank 38",
+      "count": 1,
+      "category": ["Y Monster Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Amulet: Rank 1",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Protector: Rank 2",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bulletproof Vest: Rank 3",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fancy Lid: Rank 4",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Leather Jacket: Rank 5",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Chain Mail: Rank 6",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dimensional Cape: Rank 7",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Power Jacket: Rank 8",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bushido Armor: Rank 9",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Magic Vest: Rank 10",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Armor: Rank 11",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Steel Armor: Rank 12",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Fur Coat: Rank 13",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dandy Gown: Rank 14",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Stealth Cape: Rank 15",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Stinky Jacket: Rank 16",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Ghost Cape: Rank 17",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Prophet's Robe: Rank 18",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Silver Tux: Rank 19",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gritty Vest: Rank 20",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mistral Armor: Rank 21",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Jupiter's Armor: Rank 22",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cactus Armor: Rank 23",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hero Cape: Rank 24",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Gold Tux: Rank 25",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Reaper's Cloak: Rank 26",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Black Armor: Rank 27",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nine Tail Fur: Rank 28",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Platinum Tux: Rank 29",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dragon Jacket: Rank 30",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Orichalch Shield: Rank 31",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bahamut's Scale: Rank 32",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Evil Armor: Rank 33",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Shield of Aegis: Rank 34",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Celestial Armor: Rank 35",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Cape: Rank 36",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Shield: Rank 37",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Infernal Armor: Rank 38",
+      "count": 1,
+      "category": ["Y Armor Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Quasi-Power Belt: Rank 1",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Power Belt: Rank 3",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Endeavor Belt: Rank 5",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Belt of Will: Rank 7",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mega-Power Belt: Rank 9",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Monster Belt: Rank 11",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Super Belt: Rank 13",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Steel Belt: Rank 15",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Aura Belt: Rank 17",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Love Belt: Rank 19",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Spirit Belt: Rank 21",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hero Belt: Rank 23",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Soul Belt: Rank 25",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Training Belt: Rank 27",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bravery Belt: Rank 29",
+      "count": 1,
+      "category": ["Y Belt Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Slippers: Rank 4",
+      "count": 1,
+      "category": ["Y Shoe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cross-Trainers: Rank 6",
+      "count": 1,
+      "category": ["Y Shoe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Ninja Shoes: Rank 8",
+      "count": 1,
+      "category": ["Y Shoe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Falcon Shoes: Rank 10",
+      "count": 1,
+      "category": ["Y Shoe Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Common Glasses: Rank 2",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Magnifying Glass: Rank 5",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nerd Glasses: Rank 8",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Plastic Nose: Rank 11",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Opera Glasses: Rank 14",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Nightvision: Rank 17",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Crosshair Scope: Rank 20",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Foresight: Rank 23",
+      "count": 1,
+      "category": ["Y Eyewear Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Common Orb: Rank 2",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Psyche Orb: Rank 5",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dark Orb: Rank 8",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Blood Orb: Rank 11",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Star Orb: Rank 14",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Moon Orb: Rank 17",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "King Orb: Rank 20",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Holy Orb: Rank 25",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Chaos Orb: Rank 35",
+      "count": 1,
+      "category": ["Y Orb Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Brawn: Rank 2",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Hustle: Rank 5",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Spirit: Rank 8",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Fight: Rank 11",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Ace: Rank 14",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Victory: Rank 17",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Dream: Rank 20",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle World: Rank 25",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Muscle Star: Rank 33",
+      "count": 1,
+      "category": ["Y Muscle Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Imperial Seal: Rank 5",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dark Rosary: Rank 10",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Devil Ring: Rank 14",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Feather Token: Rank 18",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Sofia's Mirror: Rank 22",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Pravda Necklace: Rank 26",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Royal Ring: Rank 30",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Testament: Rank 34",
+      "count": 1,
+      "category": ["Y Treasure Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "ABC Gum: Rank 1",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mint Gum: Rank 1",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Candy: Rank 3",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cotton Candy: Rank 5",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Taiyaki: Rank 7",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Chocolate: Rank 9",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Flan: Rank 11",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Eclair: Rank 13",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Opened Drink: Rank 1",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Unopened Drink: Rank 2",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Garlic Water: Rank 4",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Yam Starch: Rank 6",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Barbeque Sauce: Rank 8",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Egg Yolk: Rank 10",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Protein Shake: Rank 12",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bloody Mary: Rank 14",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Dried Worm: Rank 2",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Caterpillar Egg: Rank 3",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Charred Newt: Rank 5",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Rooster Blood: Rank 7",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Snake Kidney: Rank 9",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bat Soup: Rank 12",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Frog Sweat: Rank 15",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Immortal's Pill: Rank 20",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Faerie Dust: Rank 1",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Stealing Hand: Rank 2",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Plunder Hand: Rank 6",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Cha-Ching Hand: Rank 10",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Bandit's Hand: Rank 20",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Mr. Gency's Exit: Rank 3",
+      "count": 1,
+      "category": ["Y Consumable Items", "Itemsanity"],
+      "useful": true
+    },
+    {
+      "name": "Hobbit",
+      "count": 1,
+      "category": ["Z Faerie Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Puck",
+      "count": 1,
+      "category": ["Z Faerie Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Brownie",
+      "count": 1,
+      "category": ["Z Faerie Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Koropokkuru",
+      "count": 1,
+      "category": ["Z Faerie Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Lilliput",
+      "count": 1,
+      "category": ["Z Faerie Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Phooka",
+      "count": 1,
+      "category": ["Z Faerie Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Ghost",
+      "count": 1,
+      "category": ["Z Spirit Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Boggart",
+      "count": 1,
+      "category": ["Z Spirit Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Specter",
+      "count": 1,
+      "category": ["Z Spirit Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Wraith",
+      "count": 1,
+      "category": ["Z Spirit Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Fiend",
+      "count": 1,
+      "category": ["Z Spirit Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Phantom",
+      "count": 1,
+      "category": ["Z Spirit Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Golem",
+      "count": 1,
+      "category": ["Z Golem Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Spriggan",
+      "count": 1,
+      "category": ["Z Golem Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Ekim",
+      "count": 1,
+      "category": ["Z Golem Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Djinn",
+      "count": 1,
+      "category": ["Z Golem Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Ullikummi",
+      "count": 1,
+      "category": ["Z Golem Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Gogmagog",
+      "count": 1,
+      "category": ["Z Golem Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Man-Eater",
+      "count": 1,
+      "category": ["Z Treant Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Oakrot",
+      "count": 1,
+      "category": ["Z Treant Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Treant",
+      "count": 1,
+      "category": ["Z Treant Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Zakkum",
+      "count": 1,
+      "category": ["Z Treant Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Erl King",
+      "count": 1,
+      "category": ["Z Treant Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Yggdrasil",
+      "count": 1,
+      "category": ["Z Treant Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Imp",
+      "count": 1,
+      "category": ["Z Winged Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Gremlin",
+      "count": 1,
+      "category": ["Z Winged Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Agathion",
+      "count": 1,
+      "category": ["Z Winged Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Alp",
+      "count": 1,
+      "category": ["Z Winged Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Incubus",
+      "count": 1,
+      "category": ["Z Winged Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Daemon",
+      "count": 1,
+      "category": ["Z Winged Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Killer Armor",
+      "count": 1,
+      "category": ["Z Dark Knight Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Dark Knight",
+      "count": 1,
+      "category": ["Z Dark Knight Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Dullahan",
+      "count": 1,
+      "category": ["Z Dark Knight Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Avenger",
+      "count": 1,
+      "category": ["Z Dark Knight Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Demonic Suit",
+      "count": 1,
+      "category": ["Z Dark Knight Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Executioner",
+      "count": 1,
+      "category": ["Z Dark Knight Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Pumpkin",
+      "count": 1,
+      "category": ["Z Lantern Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Decoy",
+      "count": 1,
+      "category": ["Z Lantern Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Mandrake",
+      "count": 1,
+      "category": ["Z Lantern Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Scarecrow",
+      "count": 1,
+      "category": ["Z Lantern Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Jack",
+      "count": 1,
+      "category": ["Z Lantern Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Halloween",
+      "count": 1,
+      "category": ["Z Lantern Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Gargoyle",
+      "count": 1,
+      "category": ["Z Gargoyle Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Guardian",
+      "count": 1,
+      "category": ["Z Gargoyle Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nebiros",
+      "count": 1,
+      "category": ["Z Gargoyle Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Balrog",
+      "count": 1,
+      "category": ["Z Gargoyle Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Seth",
+      "count": 1,
+      "category": ["Z Gargoyle Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Pazuzu",
+      "count": 1,
+      "category": ["Z Gargoyle Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nightmare",
+      "count": 1,
+      "category": ["Z Shadow Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Shade",
+      "count": 1,
+      "category": ["Z Shadow Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Lich",
+      "count": 1,
+      "category": ["Z Shadow Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Chernobog",
+      "count": 1,
+      "category": ["Z Shadow Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Death",
+      "count": 1,
+      "category": ["Z Shadow Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Thanatos",
+      "count": 1,
+      "category": ["Z Shadow Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Serpent",
+      "count": 1,
+      "category": ["Z Serpent Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Mizuchi",
+      "count": 1,
+      "category": ["Z Serpent Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Sea Dragon",
+      "count": 1,
+      "category": ["Z Serpent Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Rahab",
+      "count": 1,
+      "category": ["Z Serpent Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Leviathan",
+      "count": 1,
+      "category": ["Z Serpent Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Midgardsorm",
+      "count": 1,
+      "category": ["Z Serpent Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Cyclops",
+      "count": 1,
+      "category": ["Z Galactic Demon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Sentinel",
+      "count": 1,
+      "category": ["Z Galactic Demon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nataku",
+      "count": 1,
+      "category": ["Z Galactic Demon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Talos",
+      "count": 1,
+      "category": ["Z Galactic Demon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Ravana",
+      "count": 1,
+      "category": ["Z Galactic Demon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Argus",
+      "count": 1,
+      "category": ["Z Galactic Demon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Dragon",
+      "count": 1,
+      "category": ["Z Dragon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Fafnir",
+      "count": 1,
+      "category": ["Z Dragon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nidhogg",
+      "count": 1,
+      "category": ["Z Dragon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Azhi Dahaka",
+      "count": 1,
+      "category": ["Z Dragon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Tiamat",
+      "count": 1,
+      "category": ["Z Dragon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Bahamut",
+      "count": 1,
+      "category": ["Z Dragon Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Zombie",
+      "count": 1,
+      "category": ["Z Undead Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Ghoul",
+      "count": 1,
+      "category": ["Z Undead Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Corpse",
+      "count": 1,
+      "category": ["Z Undead Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Ghast",
+      "count": 1,
+      "category": ["Z Undead Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Wight",
+      "count": 1,
+      "category": ["Z Undead Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Zombie King",
+      "count": 1,
+      "category": ["Z Undead Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Brute",
+      "count": 1,
+      "category": ["Z Nether Noble Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Death Boar",
+      "count": 1,
+      "category": ["Z Nether Noble Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Minotaur",
+      "count": 1,
+      "category": ["Z Nether Noble Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Humbaba",
+      "count": 1,
+      "category": ["Z Nether Noble Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Archdemon",
+      "count": 1,
+      "category": ["Z Nether Noble Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Behemoth",
+      "count": 1,
+      "category": ["Z Nether Noble Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Manticore",
+      "count": 1,
+      "category": ["Z Beast Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nue",
+      "count": 1,
+      "category": ["Z Beast Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Myrmecoleo",
+      "count": 1,
+      "category": ["Z Beast Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Chimera",
+      "count": 1,
+      "category": ["Z Beast Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Tao Tieh",
+      "count": 1,
+      "category": ["Z Beast Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Sphinx",
+      "count": 1,
+      "category": ["Z Beast Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Empusa",
+      "count": 1,
+      "category": ["Z Succubus Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Lilim",
+      "count": 1,
+      "category": ["Z Succubus Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Succubus",
+      "count": 1,
+      "category": ["Z Succubus Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Carmilla",
+      "count": 1,
+      "category": ["Z Succubus Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Hecate",
+      "count": 1,
+      "category": ["Z Succubus Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Lilith",
+      "count": 1,
+      "category": ["Z Succubus Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nekomata",
+      "count": 1,
+      "category": ["Z Kit Cat Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Cait Sith",
+      "count": 1,
+      "category": ["Z Kit Cat Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Werecat",
+      "count": 1,
+      "category": ["Z Kit Cat Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Tail Ring",
+      "count": 1,
+      "category": ["Z Kit Cat Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Elbacky",
+      "count": 1,
+      "category": ["Z Kit Cat Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Bastet",
+      "count": 1,
+      "category": ["Z Kit Cat Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Vampire",
+      "count": 1,
+      "category": ["Z Nosferatu Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Strigoi",
+      "count": 1,
+      "category": ["Z Nosferatu Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Neuntoter",
+      "count": 1,
+      "category": ["Z Nosferatu Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Varcolaci",
+      "count": 1,
+      "category": ["Z Nosferatu Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Nosferatu",
+      "count": 1,
+      "category": ["Z Nosferatu Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Unholy King",
+      "count": 1,
+      "category": ["Z Nosferatu Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Efreet",
+      "count": 1,
+      "category": ["Z Great Wyrm Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Shaitan",
+      "count": 1,
+      "category": ["Z Great Wyrm Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Marid",
+      "count": 1,
+      "category": ["Z Great Wyrm Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Flamberg",
+      "count": 1,
+      "category": ["Z Great Wyrm Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Surt",
+      "count": 1,
+      "category": ["Z Great Wyrm Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Kagustuchi",
+      "count": 1,
+      "category": ["Z Great Wyrm Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Pvt. Prinny",
+      "count": 1,
+      "category": ["Z Prinny Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Cpt. Prinny",
+      "count": 1,
+      "category": ["Z Prinny Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Gen. Prinny",
+      "count": 1,
+      "category": ["Z Prinny Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Prinny King",
+      "count": 1,
+      "category": ["Z Prinny Monsters", "Monstersanity"],
+      "filler": true
+    },
+    {
+      "name": "Prinny God",
+      "count": 1,
+      "category": ["Z Prinny Monsters", "Monstersanity"],
+      "filler": true
     }
   ]
 }

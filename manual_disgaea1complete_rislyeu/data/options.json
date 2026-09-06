@@ -55,6 +55,7 @@
         },
         "Enable_Monstersanity":{
             "description": ["Adds checks for killing every type of monster, including every sub type in every species.  This option adds a lot of tedious checks as about 1/3 of the monsters in game can only be found at the Dark Assembly or in the Item World.",
+            "Also adds items in order to create those monsters to be used in battle",
             "You can check your progress on the create character screen as you only can create monsters you have killed at least one of."],
             "type": "Toggle",
             "default": false,
@@ -63,14 +64,13 @@
         "Enable_Dark_Assembly":{
             "description": ["Adds Items for all the Dark Assembly features that must be found before you can take advantage of them.",  
             "Regardless of this setting, The first 4 options on the Dark Assembly will be available to you (Senator List, Create New Character, Delete a Character, Change Name.",  
-            "Enabled by default and will cause you to get many more filler items if disabled."],
+            "Enabled by default and will cause you to obtain many more filler items if disabled."],
             "type": "Toggle",
             "default": true,
             "group": "Basic Random Options"
         },
         "Enable_Special_Characters":{
-            "description": ["Adds Items for all the characters that join your party throughout the story.  When you obtain them you must have the item in the manual in order to deploy them onto a map.",  
-            "Enabled by default and will cause you to get a few more filler items if disabled."],
+            "description": ["Adds Checks and Items for all the characters that join your party throughout the story.  When you obtain them you must have the item in the manual in order to deploy them into battle.  Enabled by default."],
             "type": "Toggle",
             "default": true,
             "group": "Basic Random Options"
