@@ -2,121 +2,62 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
     "Episode 1": {
       "connects_to": ["Episode 2"],
-      "starting": true,
-      "requires": ["Episode 1 Prince of the Netherworld"]
+      "starting": true
     },
     "Episode 2": {
       "connects_to": ["Common Item World"],
-      "requires": ["Episode 2 Enter Flonne"]
+      "requires": "|Episode 2 Enter Flonne|"
     },
     "Common Item World": {
-      "connects_to": ["Episode 3", "Rare Item World"],
-      "requires": ["Common Item World"]
+      "connects_to": ["Episode 3"],
+      "requires": "|Common Item World|"
     },
     "Episode 3": {
       "connects_to": ["Episode 4"],
-      "requires": ["Episode 3 A Hint of Kindness"]
+      "requires": "|Episode 3 A Hint of Kindness|"
     },
     "Episode 4": {
       "connects_to": ["Episode 5"],
-      "requires": ["Episode 4 Gift from an Angel"]
+      "requires": "|Episode 4 Gift from an Angel|"
     },
     "Episode 5": {
       "connects_to": ["Episode 6"],
-      "requires": ["Episode 5 Etna's Secret"]
+      "requires": "|Episode 5 Etna's Secret|"
     },
     "Episode 6": {
       "connects_to": ["Episode 7"],
-      "requires": ["Episode 6 Laharl's Challenge"]
+      "requires": "|Episode 6 Laharl's Challenge|"
     },
     "Episode 7": {
       "connects_to": ["Episode 8"],
-      "requires": ["Episode 7 Of Being an Overlord"]
+      "requires": "|Episode 7 Of Being an Overlord|"
     },
     "Episode 8": {
       "connects_to": ["Episode 9"],
-      "requires": ["Episode 8 Reincarnation"]
+      "requires": "|Episode 8 Reincarnation|"
     },
     "Episode 9": {
       "connects_to": ["Episode 10"],
-      "requires": ["Episode 9 Captain Gordon, Defender of Earth"]
+      "requires": "|Episode 9 Captain Gordon Defender of Earth|"
     },
     "Episode 10": {
       "connects_to": ["Episode 11"],
-      "requires": ["Episode 10 Angels, Demons, and Humans"]
+      "requires": "|Episode 10 Angels Demons and Humans|"
     },
     "Episode 11": {
       "connects_to": ["Episode 12"],
-      "requires": ["Episode 11 Hero's Will, Overlord's Way"]
+      "requires": "|Episode 11 Hero's Will Overlord's Way|"
     },
     "Episode 12": {
       "connects_to": ["Episode 13"],
-      "requires": ["Episode 12 War of the Netherworld, Part 1"]
+      "requires": "|Episode 12 War of the Netherworld Part 1|"
     },
     "Episode 13": {
       "connects_to": ["Final Episode"],
-      "requires": ["Episode 13 War of the Netherworld, Part 2"]
+      "requires": "|Episode 13 War of the Netherworld Part 2|"
     },
     "Final Episode": {
-      "requires": ["Final Episode What Lies Beyond The Battle"]
-    },
-    "Rare Item World": {
-      "connects_to": ["Legendary Item World"],
-      "requires": ["|Rare Item World| AND |Episode 9 Captain Gordon, Defender of Earth|"]
-    },
-    "Legendary Item World": {
-      "requires": ["|Legendary Item World| AND |Episode 12 War of the Netherworld, Part 1|"]
-    },
-    "Brawler F": {
-      "requires": ["Brawler F"]
-    },
-    "Brawler M": {
-      "requires": ["Brawler M"]
-    },
-    "Warrior F": {
-      "requires": ["Warrior F"]
-    },
-    "Warrior M": {
-      "requires": ["Warrior M"]
-    },
-    "Ninja": {
-      "requires": ["|Ninja| AND |Brawler M| AND |Warrior M|"]
-    },
-    "Ronin": {
-      "requires": ["|Ronin| AND |Brawler F| AND |Warrior F|"]
-    },
-    "Archer": {
-      "requires": ["|Archer| AND |Episode 3 A Hint of Kindness|"]
-    },
-    "Scout": {
-      "requires": ["|Scout| AND (|Brawler M| OR |Brawler F|) AND (|Warrior M| OR |Warrior F|)"]
-    },
-    "Rogue": {
-      "requires": ["|Rogue| AND (|Brawler F| OR |Brawler M|) AND (|Warrior F| OR |Warrior M|)"]
-    },
-    "Mage": {
-      "requires": ["|Red Mage| OR |Blue Mage| OR |Green Mage|"]
-    },
-    "Skull": {
-      "requires": ["|Red Skull| OR |Blue Skull| OR |Green Skull|"]
-    },
-    "Knight": {
-      "requires": ["|Knight| AND |Warrior F| AND |Mage|"]
-    },
-    "Cleric F": {
-      "requires": ["Cleric F"]
-    },
-    "Cleric M": {
-      "requires": ["Cleric M"]
-    },
-    "Recruit": {
-      "requires": ["|Recruit| AND |Episode 10 Angels, Demons, and Humans|"]
-    },
-    "Angel": {
-      "requires": ["|Angel| AND |Cleric F| AND |Knight| AND |Archer| AND Optall(|Cave of Ordeals| AND |Progressive Demon Rank:6|)"]
-    },
-    "Majin": {
-      "requires": ["|Majin| AND |Warrior M| AND |Brawler M| AND |Ninja| AND |Rogue| AND Optall(|Cave of Ordeals| AND |Progressive Demon Rank:6|)"]
+      "requires": "|Final Episode What Lies Beyond The Battle|"
     },
     "Product Rank 0": {
       "connects_to": ["Product Rank 1"],
@@ -124,49 +65,49 @@
     },
     "Product Rank 1": {
       "connects_to": ["Product Rank 2"],
-      "requires": ["{OptOne(|Progressive Product Rank:1|) AND |Episode 2 Enter Flonne|"]
+      "requires": "{OptOne(|Progressive Product Rank:1|)} and  |Episode 2 Enter Flonne|"
     },
     "Product Rank 2": {
       "connects_to": ["Product Rank 3"],
-      "requires": ["{OptOne(|Progressive Product Rank:2|) AND |Episode 3 A Hint of Kindness|"]
+      "requires": "{OptOne(|Progressive Product Rank:2|) and |Episode 3 A Hint of Kindness|"
     },
     "Product Rank 3": {
       "connects_to": ["Product Rank 4"],
-      "requires": ["{OptOne(|Progressive Product Rank:3|) AND |Episode 4 Gift from an Angel|"]
+      "requires": "{OptOne(|Progressive Product Rank:3|) and |Episode 4 Gift from an Angel|"
     },
     "Product Rank 4": {
       "connects_to": ["Product Rank 5"],
-      "requires": ["{OptOne(|Progressive Product Rank:4|) AND |Episode 5 Etna's Secret|"]
+      "requires": "{OptOne(|Progressive Product Rank:4|) and |Episode 5 Etna's Secret|"
     },
     "Product Rank 5": {
       "connects_to": ["Product Rank 6"],
-      "requires": ["{OptOne(|Progressive Product Rank:5|) AND |Episode 6 Laharl's Challenge|"]
+      "requires": "{OptOne(|Progressive Product Rank:5|) and |Episode 6 Laharl's Challenge|"
     },
     "Product Rank 6": {
       "connects_to": ["Product Rank 7"],
-      "requires": ["{OptOne(|Progressive Product Rank:6|) AND |Episode 7 Of Being an Overlord|"]
+      "requires": "{OptOne(|Progressive Product Rank:6|) and |Episode 7 Of Being an Overlord|"
     },
     "Product Rank 7": {
       "connects_to": ["Product Rank 8"],
-      "requires": ["{OptOne(|Progressive Product Rank:7|) AND |Episode 8 Reincarnation|"]
+      "requires": "{OptOne(|Progressive Product Rank:7|) and |Episode 8 Reincarnation|"
     },
     "Product Rank 8": {
       "connects_to": ["Product Rank 9"],
-      "requires": ["{OptOne(|Progressive Product Rank:8|) AND |Episode 9 Captain Gordon, Defender of Earth|"]
+      "requires": "{OptOne(|Progressive Product Rank:8|) and |Episode 9 Captain Gordon Defender of Earth|"
     },
     "Product Rank 9": {
       "connects_to": ["Product Rank 10"],
-      "requires": ["{OptOne(|Progressive Product Rank:9|) AND |Episode 10 Angels, Demons, and Humans|"]
+      "requires": "{OptOne(|Progressive Product Rank:9|) and |Episode 10 Angels Demons and Humans|"
     },
     "Product Rank 10": {
       "connects_to": ["Product Rank 11"],
-      "requires": ["{OptOne(|Progressive Product Rank:10|) AND |Episode 11 Hero's Will, Overlord's Way|"]
+      "requires": "{OptOne(|Progressive Product Rank:10|) and |Episode 11 Hero's Will Overlord's Way|"
     },
     "Product Rank 11": {
       "connects_to": ["Product Rank 12"],
-      "requires": ["{OptOne(|Progressive Product Rank:11|) AND |Episode 12 War of the Netherworld, Part 1|"]
+      "requires": "{OptOne(|Progressive Product Rank:11|) and |Episode 12 War of the Netherworld Part 1|"
     },
     "Product Rank 12": {
-      "requires": ["{OptOne(|Progressive Product Rank:12|) AND |Episode 13 War of the Netherworld, Part 2|"]
+      "requires": "{OptOne(|Progressive Product Rank:12|) and |Episode 13 War of the Netherworld Part 2|"
     }
 }

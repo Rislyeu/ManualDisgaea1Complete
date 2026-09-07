@@ -51,31 +51,31 @@
       "progression": true
     },
     {
-      "name": "Episode 9 Captain Gordon, Defender of Earth",
+      "name": "Episode 9 Captain Gordon Defender of Earth",
       "count": 1,
       "category": "Main Story",
       "progression": true
     },
     {
-      "name": "Episode 10 Angels, Demons, and Humans",
+      "name": "Episode 10 Angels Demons and Humans",
       "count": 1,
       "category": "Main Story",
       "progression": true
     },
     {
-      "name": "Episode 11 Hero's Will, Overlord's Way",
+      "name": "Episode 11 Hero's Will Overlord's Way",
       "count": 1,
       "category": "Main Story",
       "progression": true
     },
     {
-      "name": "Episode 12 War of the Netherworld, Part 1",
+      "name": "Episode 12 War of the Netherworld Part 1",
       "count": 1,
       "category": "Main Story",
       "progression": true
     },
     {
-      "name": "Episode 13 War of the Netherworld, Part 2",
+      "name": "Episode 13 War of the Netherworld Part 2",
       "count": 1,
       "category": "Main Story",
       "progression": true
@@ -107,103 +107,103 @@
     {
       "name": "Raise Military Funds",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Improve Counterattack",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Improve Movement",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Triple Exp.",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Bonus Gauge Boost",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Prinny Day",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Progressive Demon Rank",
       "count": 11,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "Progressive Product Rank",
       "count": 12,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "Progressive Enemy Strength",
       "count": 20,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Prinny Land",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "Cave of Ordeal",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "Human World",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "useful": true
     },
     {
       "name": "Alternate Netherworld",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "The Mysterious Seal",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "filler": true
     },
     {
       "name": "Eyewear Inventory",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "Belt Inventory",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
       "name": "Shoe Inventory",
       "count": 1,
-      "category": ["Dark Assembly", "Enable Assembly"],
+      "category": ["Dark Assembly"],
       "progression": true
     },
     {
@@ -4016,7 +4016,7 @@
       "filler": true
     },
     {
-      "name": "Avenger",
+      "name": "Avenger (Dark Knight)",
       "count": 1,
       "category": ["Z Dark Knight Monsters", "Monstersanity"],
       "filler": true

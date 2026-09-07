@@ -19,10 +19,6 @@
    "hidden": true,
    "yaml_option": ["Enable_Abilitysanity"]
  },
- "Enable Assembly": {
-   "hidden": true,
-   "yaml_option": ["Enable_Dark_Assembly"]
- },
  "Special Units": {
    "hidden": true,
    "yaml_option": ["Enable_Special_Characters"]
