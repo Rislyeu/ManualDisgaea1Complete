@@ -105,12 +105,6 @@
       "progression": true
     },
     {
-      "name": "Progressive Demon Rank",
-      "count": 11,
-      "category": ["Dark Assembly", "Enable Assembly"],
-      "progression": true
-    },
-    {
       "name": "Raise Military Funds",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
@@ -147,6 +141,12 @@
       "useful": true
     },
     {
+      "name": "Progressive Demon Rank",
+      "count": 11,
+      "category": ["Dark Assembly", "Enable Assembly"],
+      "progression": true
+    },
+    {
       "name": "Progressive Product Rank",
       "count": 12,
       "category": ["Dark Assembly", "Enable Assembly"],
@@ -162,13 +162,13 @@
       "name": "Prinny Land",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "progression": true
     },
     {
       "name": "Cave of Ordeal",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "progression": true
     },
     {
       "name": "Human World",
@@ -180,31 +180,31 @@
       "name": "Alternate Netherworld",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "progression": true
     },
     {
       "name": "The Mysterious Seal",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "filler": true
     },
     {
       "name": "Eyewear Inventory",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "progression": true
     },
     {
       "name": "Belt Inventory",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "progression": true
     },
     {
       "name": "Shoe Inventory",
       "count": 1,
       "category": ["Dark Assembly", "Enable Assembly"],
-      "useful": true
+      "progression": true
     },
     {
       "name": "Laharl",
@@ -4505,31 +4505,31 @@
       "name": "Pvt. Prinny",
       "count": 1,
       "category": ["Z Prinny Monsters", "Monstersanity"],
-      "filler": true
+      "useful": true
     },
     {
       "name": "Cpt. Prinny",
       "count": 1,
       "category": ["Z Prinny Monsters", "Monstersanity"],
-      "filler": true
+      "useful": true
     },
     {
       "name": "Gen. Prinny",
       "count": 1,
       "category": ["Z Prinny Monsters", "Monstersanity"],
-      "filler": true
+      "useful": true
     },
     {
       "name": "Prinny King",
       "count": 1,
       "category": ["Z Prinny Monsters", "Monstersanity"],
-      "filler": true
+      "useful": true
     },
     {
       "name": "Prinny God",
       "count": 1,
       "category": ["Z Prinny Monsters", "Monstersanity"],
-      "filler": true
+      "useful": true
     }
   ]
 }
